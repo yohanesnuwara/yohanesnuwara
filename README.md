@@ -10,7 +10,7 @@ Python worked examples and problems from Reservoir Engineering textbooks (Brian 
 
 ### [`pyreservoir`](https://github.com/yohanesnuwara/pyreservoir)
 
-Python utilities for reservoir engineering calculations
+Python utilities for reservoir engineering calculations. **PVT analysis**, **Well Test**, **Material Balance**, and **Decline Curve Analysis** using Python. Cool, isn't it?
 
 
 ### [`computational-geophysics`](https://github.com/yohanesnuwara/computational-geophysics)
