@@ -1,4 +1,4 @@
-## Hello, Welcome to my GitHub! I am a reservoir geophysicist, and a Python passionate
+## Hello! I am a reservoir geophysicist, and a Python passionate
 
 ### **My current projects** (Please visit my repositories)
 
