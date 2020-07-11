@@ -1,17 +1,3 @@
-## About Me
-
-👋 Hi, my name is Yohanes Nuwara. In the meantime, I am working as a reservoir geophysicist. I have B.Sc in Geophysics (2019). I solved problems in Oil and Gas using Python as my main programming language. I am deeply interested in the application of Python to numerical computation for reservoir studies, modeling, and simulation for engineering. I am also interested in machine learning for oil and gas application. 
-
-<div><img src="https://user-images.githubusercontent.com/51282928/87218376-3faec200-c37c-11ea-807a-c996c2316b7b.jpg" width="30"/></div> 
-
-[LinkedIn](https://www.linkedin.com/in/yohanesnuwara)
-
-<div><img src="https://user-images.githubusercontent.com/51282928/87218513-ad0f2280-c37d-11ea-9a7e-76fc333c6b35.png" width="30"/></div>
-
-[ign.nuwara97@gmail.com](ign.nuwara97@gmail.com)
-
-## My frequently worked Repo
-
 ### [`reservoir-engineering`](https://github.com/yohanesnuwara/reservoir-engineering) **Top repo 🔥** (30 forks🍴 and 63 stars⭐)
 
 Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8, etc.) 
@@ -40,6 +26,18 @@ A designed course on Python programming for geoengineers (geologist, geophysicis
 
 <!--
 **yohanesnuwara/yohanesnuwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+About Me
+
+👋 Hi, my name is Yohanes Nuwara. In the meantime, I am working as a reservoir geophysicist. I have B.Sc in Geophysics (2019). I solved problems in Oil and Gas using Python as my main programming language. I am deeply interested in the application of Python to numerical computation for reservoir studies, modeling, and simulation for engineering. I am also interested in machine learning for oil and gas application. 
+
+<div><img src="https://user-images.githubusercontent.com/51282928/87218376-3faec200-c37c-11ea-807a-c996c2316b7b.jpg" width="30"/></div> 
+
+[LinkedIn](https://www.linkedin.com/in/yohanesnuwara)
+
+<div><img src="https://user-images.githubusercontent.com/51282928/87218513-ad0f2280-c37d-11ea-9a7e-76fc333c6b35.png" width="30"/></div>
+
+[ign.nuwara97@gmail.com](ign.nuwara97@gmail.com)
 
 Here are some ideas to get you started:
 
