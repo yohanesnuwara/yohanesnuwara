@@ -20,7 +20,7 @@ Python utilities for reservoir engineering calculations. **PVT analysis**, **Wel
 <img src="https://user-images.githubusercontent.com/51282928/83759266-80d8f580-a69d-11ea-9149-9c2eed8b025f.png" width="400"/>
 </div>
 
-### [`python-bootcamp-for-geoengineers`](https://github.com/yohanesnuwara/pyreservoir)
+### [`python-bootcamp-for-geoengineers`](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers)
 
 A designed course on Python programming for geoengineers (geologist, geophysicist, petroleum engineers)
 
