@@ -27,19 +27,19 @@ A designed course on Python programming for geoengineers (geologist, geophysicis
 
 ### My Projects and Works
 
-|No.|Project|Part of repo|Progress Bar|Description|
-|:--:|:--:|:--:|:--:|:--:|
-|1|*[PyReservoir](https://github.com/yohanesnuwara/pyreservoir)* 🆕|[`pyreservoir`](https://github.com/yohanesnuwara/pyreservoir)|![25%](https://progress-bar.dev/25)||
-|2|*reservoir-engineering*|[`reservoir-engineering`](https://github.com/yohanesnuwara/reservoir-engineering)|![85%](https://progress-bar.dev/85)||
-|3|*reservoir-simulation* 🆕|[`reservoir-simulation`](https://github.com/yohanesnuwara/reservoir-simulation)|![10%](https://progress-bar.dev/10)||
-|4|*Open Geoscience Repository*|[`Open Geoscience Repository`](https://github.com/yohanesnuwara/open-geoscience-repository)|![100%](https://progress-bar.dev/100)||
-|5|*reservoir-geomechanics*||![95%](https://progress-bar.dev/95)||
-|6|*seis-util* 🆕||![50%](https://progress-bar.dev/50)||
-|7|Neural Network for EOR Screening||![85%](https://progress-bar.dev/85)||
-|8|Gravity Anomaly Separation||![100%](https://progress-bar.dev/100)||
-|9|Rotation of TTI Anisotropy||![95%](https://progress-bar.dev/95)||
-|10|Carbon Capture and Storage||![100%](https://progress-bar.dev/100)||
-|11|Monte-Carlo Simulation for CCS Global Goal||![100%](https://progress-bar.dev/100)||
+|No.|Project|Progress Bar|Description|
+|:--:|:--:|:--:|:--:|
+|1|*[PyReservoir](https://github.com/yohanesnuwara/pyreservoir)* 🆕|![25%](https://progress-bar.dev/25)||
+|2|*[reservoir-engineering](https://github.com/yohanesnuwara/reservoir-engineering)*|![85%](https://progress-bar.dev/85)||
+|3|*[reservoir-simulation](https://github.com/yohanesnuwara/reservoir-simulation)* 🆕|![10%](https://progress-bar.dev/10)||
+|4|*[Open Geoscience Repository](https://github.com/yohanesnuwara/open-geoscience-repository)*|![100%](https://progress-bar.dev/100)||
+|5|*reservoir-geomechanics*|![95%](https://progress-bar.dev/95)||
+|6|*seis-util* 🆕|![50%](https://progress-bar.dev/50)||
+|7|Neural Network for EOR Screening|![85%](https://progress-bar.dev/85)||
+|8|Gravity Anomaly Separation|![100%](https://progress-bar.dev/100)||
+|9|Rotation of TTI Anisotropy|![95%](https://progress-bar.dev/95)||
+|10|Carbon Capture and Storage|![100%](https://progress-bar.dev/100)||
+|11|Monte-Carlo Simulation for CCS Global Goal|![100%](https://progress-bar.dev/100)||
 
 
 <!--
