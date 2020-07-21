@@ -1,3 +1,5 @@
+## Top Repositories
+
 ### [`reservoir-engineering`](https://github.com/yohanesnuwara/reservoir-engineering) **Top repo 🔥** (32 forks🍴 and 65 stars⭐)
 
 Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8, etc.) 
@@ -8,7 +10,7 @@ Python worked examples and problems from Reservoir Engineering textbooks (Brian 
 
 ### [`pyreservoir`](https://github.com/yohanesnuwara/pyreservoir)
 
-Python utilities for reservoir engineering calculations. **PVT analysis**, **Well Test**, **Material Balance**, and **Decline Curve Analysis** using Python. Cool, isn't it?
+Python utilities for reservoir engineering calculations. **PVT analysis**, **Well Test**, **Material Balance**, and **Decline Curve Analysis** using Python. 
 
 
 ### [`computational-geophysics`](https://github.com/yohanesnuwara/computational-geophysics)
@@ -25,21 +27,21 @@ Python utilities for reservoir engineering calculations. **PVT analysis**, **Wel
 A designed course on Python programming for geoengineers (geologist, geophysicist, petroleum engineers)
 
 
-### My Projects and Works
+## My Projects and Works
 
 |No.|Project|Progress Bar|Description|
 |:--:|:--:|:--:|:--:|
-|1|*[PyReservoir](https://github.com/yohanesnuwara/pyreservoir)* 🆕|![25%](https://progress-bar.dev/25)||
-|2|*[reservoir-engineering](https://github.com/yohanesnuwara/reservoir-engineering)*|![85%](https://progress-bar.dev/85)||
-|3|*[reservoir-simulation](https://github.com/yohanesnuwara/reservoir-simulation)* 🆕|![10%](https://progress-bar.dev/10)||
-|4|*[Open Geoscience Repository](https://github.com/yohanesnuwara/open-geoscience-repository)*|![100%](https://progress-bar.dev/100)||
-|5|*reservoir-geomechanics*|![95%](https://progress-bar.dev/95)||
-|6|*seis-util* 🆕|![50%](https://progress-bar.dev/50)||
-|7|Neural Network for EOR Screening|![85%](https://progress-bar.dev/85)||
-|8|Gravity Anomaly Separation|![100%](https://progress-bar.dev/100)||
-|9|Rotation of TTI Anisotropy|![95%](https://progress-bar.dev/95)||
-|10|Carbon Capture and Storage|![100%](https://progress-bar.dev/100)||
-|11|Monte-Carlo Simulation for CCS Global Goal|![100%](https://progress-bar.dev/100)||
+|1|*[PyReservoir](https://github.com/yohanesnuwara/pyreservoir)* 🆕|![25%](https://progress-bar.dev/25)|Python utilities for reservoir engineering calculations (PVT, volumetric mapping, well test, material balance, decline curve analysis)|
+|2|*[reservoir-engineering](https://github.com/yohanesnuwara/reservoir-engineering)*|![85%](https://progress-bar.dev/85)|Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8, etc.)|
+|3|*[reservoir-simulation](https://github.com/yohanesnuwara/reservoir-simulation)* 🆕|![10%](https://progress-bar.dev/10)|Step-by-step simulator using Python|
+|4|*[Open Geoscience Repository](https://github.com/yohanesnuwara/open-geoscience-repository)*|![100%](https://progress-bar.dev/100)|Open geoscience computing of open geoscience datasets available in open databases from Google Drive, SEG Wiki, and US DoE Geothermal Data Repository OpenEi|
+|5|*reservoir-geomechanics*|![95%](https://progress-bar.dev/95)|Python worked solutions of Prof. Mark Zoback's Reservoir Geomechanics course (StanfordOnline: GEOPHYSX0001) homeworks|
+|6|*seis-util* 🆕|![50%](https://progress-bar.dev/50)|Python utilities for seismic attributes computation and seismic displayer API widget|
+|7|Neural Network for EOR Screening|![85%](https://progress-bar.dev/85)|Application of NN for EOR Screening|
+|8|Gravity Anomaly Separation|![100%](https://progress-bar.dev/100)|Separation of Bouguer gravity anomaly into regional and residual anomalies using Moving Average and Second Vertical Derivative|
+|9|Rotation of TTI Anisotropy|![95%](https://progress-bar.dev/95)|Rotation of 6x6 stiffness tensor of Tilted-Transverse Isotropy (TTI) medium|
+|10|Carbon Capture and Storage|![100%](https://progress-bar.dev/100)|Geoscience in CCS. Originally my BSc thesis and will be presented in EAGE 2020 Amsterdam|
+|11|Monte-Carlo Simulation for CCS Global Goal|![100%](https://progress-bar.dev/100)|Statistical approach to evaluate a policy|
 
 
 <!--
