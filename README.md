@@ -1,5 +1,3 @@
-fff <img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/51282928/88046259-021b1780-cb7a-11ea-8b00-e091fc9f142a.gif">
-
 ## Top Repositories
 
 ### [`reservoir-engineering`](https://github.com/yohanesnuwara/reservoir-engineering) **Top repo 🔥** (32 forks🍴 and 65 stars⭐)
@@ -35,7 +33,7 @@ A designed course on Python programming for geoengineers (geologist, geophysicis
 |:--:|:--:|:--:|:--:|
 |1|*[PyReservoir](https://github.com/yohanesnuwara/pyreservoir)* <img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/51282928/88046259-021b1780-cb7a-11ea-8b00-e091fc9f142a.gif">|![25%](https://progress-bar.dev/25)|Python utilities for reservoir engineering calculations (PVT, volumetric mapping, well test, material balance, decline curve analysis)|
 |2|*[reservoir-engineering](https://github.com/yohanesnuwara/reservoir-engineering)*|![85%](https://progress-bar.dev/85)|Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8, etc.)|
-|3|*[reservoir-simulation](https://github.com/yohanesnuwara/reservoir-simulation)* <img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/51282928/88046259-021b1780-cb7a-11ea-8b00-e091fc9f142a.gif">|![10%](https://progress-bar.dev/10)|Step-by-step simulator using Python|
+|3|*[reservoir-<br>simulation](https://github.com/yohanesnuwara/reservoir-simulation)* <img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/51282928/88046259-021b1780-cb7a-11ea-8b00-e091fc9f142a.gif">|![10%](https://progress-bar.dev/10)|Step-by-step simulator using Python|
 |4|*[Open Geoscience Repository](https://github.com/yohanesnuwara/open-geoscience-repository)*|![100%](https://progress-bar.dev/100)|Open geoscience computing of open geoscience datasets available in open databases from Google Drive, SEG Wiki, and US DoE Geothermal Data Repository OpenEi|
 |5|*reservoir-geomechanics*|![95%](https://progress-bar.dev/95)|Python worked solutions of Prof. Mark Zoback's Reservoir Geomechanics course (StanfordOnline: GEOPHYSX0001) homeworks|
 |6|*seis-util* <img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/51282928/88046259-021b1780-cb7a-11ea-8b00-e091fc9f142a.gif">|![50%](https://progress-bar.dev/50)|Python utilities for seismic attributes computation and seismic displayer API widget|
