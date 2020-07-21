@@ -24,6 +24,24 @@ Python utilities for reservoir engineering calculations. **PVT analysis**, **Wel
 
 A designed course on Python programming for geoengineers (geologist, geophysicist, petroleum engineers)
 
+
+### My Projects and Works
+
+|No.|Project|Part of repo|Progress Bar|Description|
+|:--:|:--:|:--:|:--:|:--:|
+|1|*PyReservoir*|||
+|2|*reservoir-engineering*|||
+|3|*reservoir-simulation*|||
+|4|*Open Geoscience Repository*|||
+|5|*reservoir-geomechanics*|||
+|6|*seis-util*|||
+|7|Neural Network for EOR Screening|||
+|8|Gravity Anomaly Separation|||
+|9|Rotation of TTI Anisotropy|||
+|10|Carbon Capture and Storage|||
+|11|Monte-Carlo Simulation for CCS Global Goal|||
+
+
 <!--
 **yohanesnuwara/yohanesnuwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
