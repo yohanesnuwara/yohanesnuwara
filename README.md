@@ -8,7 +8,11 @@ Python worked examples and problems from Reservoir Engineering textbooks (Brian 
 <img src="https://user-images.githubusercontent.com/51282928/85827088-bb6f1300-b7af-11ea-9a1f-eed08adddaff.png" width="300"/>
 </div>
 
-### [`pyreservoir`](https://github.com/yohanesnuwara/pyreservoir)
+### [`PyReSim`](https://github.com/yohanesnuwara/pyresim)
+
+Python-language reservoir simulator (basic to advanced)
+
+### [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir)
 
 Python utilities for reservoir engineering calculations. **PVT analysis**, **Well Test**, **Material Balance**, and **Decline Curve Analysis** using Python. 
 
