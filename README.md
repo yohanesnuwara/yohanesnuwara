@@ -8,7 +8,7 @@ Python worked examples and problems from Reservoir Engineering textbooks (Brian 
 <img src="https://user-images.githubusercontent.com/51282928/85827088-bb6f1300-b7af-11ea-9a1f-eed08adddaff.png" width="300"/>
 </div>
 
-### [`PyReSim`](https://github.com/yohanesnuwara/pyresim)
+### [`PyReSim`](https://github.com/yohanesnuwara/pyresim) (Private until launched, stay tuned!)
 
 Python-language reservoir simulator (basic to advanced)
 
