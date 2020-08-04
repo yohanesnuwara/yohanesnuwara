@@ -1,12 +1,4 @@
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style a2a_follow">
-    
-    <a class="a2a_button_wordpress" href="https://www.addtoany.com/blog/"></a>
-    <a class="a2a_button_blogger" href="http://googleblog.blogspot.com/"></a>
-    <a class="a2a_button_sina_weibo" href="http://weibo.com/weibo"></a>
-    <a class="a2a_button_vk" href="https://vk.com/durov"></a>
-    <a class="a2a_button_email" href="mailto:info@example.com"></a>
-    
-</div>
+**Connect with me**<br><br> [![Foo](https://user-images.githubusercontent.com/51282928/89332355-7b0f8880-d6bd-11ea-92ae-57f147d40387.png)](https://www.linkedin.com/in/yohanesnuwara/)      [![Foo](https://user-images.githubusercontent.com/51282928/89332544-c2961480-d6bd-11ea-896e-041e8793341e.png)](ign.nuwara97@gmail.com) 
 
 ## Top Repositories
 
