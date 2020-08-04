@@ -1,3 +1,11 @@
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style a2a_follow">
+    <a class="a2a_button_wordpress" href="https://www.addtoany.com/blog/"></a>
+    <a class="a2a_button_blogger" href="http://googleblog.blogspot.com/"></a>
+    <a class="a2a_button_sina_weibo" href="http://weibo.com/weibo"></a>
+    <a class="a2a_button_vk" href="https://vk.com/durov"></a>
+    <a class="a2a_button_email" href="mailto:info@example.com"></a>
+</div>
+
 ## Top Repositories
 
 ### [`reservoir-engineering`](https://github.com/yohanesnuwara/reservoir-engineering) **Top repo 🔥** (32 forks🍴 and 65 stars⭐)
