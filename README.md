@@ -1,5 +1,3 @@
-**Connect with me**<br><br> [![Foo](https://user-images.githubusercontent.com/51282928/89332355-7b0f8880-d6bd-11ea-92ae-57f147d40387.png)](https://www.linkedin.com/in/yohanesnuwara/)      [![Foo](https://user-images.githubusercontent.com/51282928/89332544-c2961480-d6bd-11ea-896e-041e8793341e.png)](ign.nuwara97@gmail.com) 
-
 ## Top Repositories
 
 ### [`reservoir-engineering`](https://github.com/yohanesnuwara/reservoir-engineering) **Top repo 🔥** (32 forks🍴 and 65 stars⭐)
@@ -52,6 +50,8 @@ A designed course on Python programming for geoengineers (geologist, geophysicis
 
 <!--
 **yohanesnuwara/yohanesnuwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Connect with me**<br><br> [![Foo](https://user-images.githubusercontent.com/51282928/89332355-7b0f8880-d6bd-11ea-92ae-57f147d40387.png)](https://www.linkedin.com/in/yohanesnuwara/)      [![Foo](https://user-images.githubusercontent.com/51282928/89332544-c2961480-d6bd-11ea-896e-041e8793341e.png)](ign.nuwara97@gmail.com) 
 
 About Me
 
