@@ -4,11 +4,11 @@
 
 Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8, etc.) 
 
-<div>
-<img src="https://user-images.githubusercontent.com/51282928/85827088-bb6f1300-b7af-11ea-9a1f-eed08adddaff.png" width="300"/>
-</div>
-
 ### [`PyReSim`](https://github.com/yohanesnuwara/pyresim) (Private until launched, stay tuned!)
+
+<div>
+<img src="https://user-images.githubusercontent.com/51282928/89118699-ebf24d00-d4d1-11ea-92a9-76495358fc6c.png" width="300"/>
+</div>
 
 Python-language reservoir simulator (basic to advanced)
 
@@ -50,6 +50,10 @@ A designed course on Python programming for geoengineers (geologist, geophysicis
 
 <!--
 **yohanesnuwara/yohanesnuwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div>
+<img src="https://user-images.githubusercontent.com/51282928/85827088-bb6f1300-b7af-11ea-9a1f-eed08adddaff.png" width="300"/>
+</div>
 
 **Connect with me**<br><br> [![Foo](https://user-images.githubusercontent.com/51282928/89332355-7b0f8880-d6bd-11ea-92ae-57f147d40387.png)](https://www.linkedin.com/in/yohanesnuwara/)      [![Foo](https://user-images.githubusercontent.com/51282928/89332544-c2961480-d6bd-11ea-896e-041e8793341e.png)](ign.nuwara97@gmail.com) 
 
