@@ -6,11 +6,11 @@ Python worked examples and problems from Reservoir Engineering textbooks (Brian 
 
 ### [`PyReSim`](https://github.com/yohanesnuwara/pyresim) (Still on work until launched later, stay tuned!)
 
+Python-language reservoir simulator (single-phase water, gas, undersaturated oil, to multi-phase, with variety of reservoir boundary conditions, well operating conditions, homogeneous and heterogeneous)
+
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/89118699-ebf24d00-d4d1-11ea-92a9-76495358fc6c.png" width="300"/>
 </div>
-
-Python-language reservoir simulator (basic to advanced)
 
 ### [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir)
 
