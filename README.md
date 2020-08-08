@@ -4,7 +4,7 @@
 
 Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8, etc.) 
 
-### [`PyReSim`](https://github.com/yohanesnuwara/pyresim) (Private until launched, stay tuned!)
+### [`PyReSim`](https://github.com/yohanesnuwara/pyresim) (Still on work until launched later, stay tuned!)
 
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/89118699-ebf24d00-d4d1-11ea-92a9-76495358fc6c.png" width="300"/>
