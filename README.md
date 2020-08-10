@@ -12,7 +12,7 @@ Python-language reservoir simulator (single-phase water, gas, undersaturated oil
 <img src="https://user-images.githubusercontent.com/51282928/89118699-ebf24d00-d4d1-11ea-92a9-76495358fc6c.png" width="300"/>
 </div>
 
-### [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir)
+### [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir) (Still on work)
 
 Python utilities for reservoir engineering calculations. **PVT analysis**, **Well Test**, **Material Balance**, and **Decline Curve Analysis** using Python. 
 
