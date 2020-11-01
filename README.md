@@ -1,6 +1,6 @@
 ## Top Repositories
 
-### [`reservoir-engineering`](https://github.com/yohanesnuwara/reservoir-engineering) **Top repo 🔥** (39 forks🍴 and 77 stars⭐)
+### [`reservoir-engineering`](https://github.com/yohanesnuwara/reservoir-engineering) **Top repo 🔥** (44 forks🍴 and 83 stars⭐)
 
 Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8, etc.) 
 
