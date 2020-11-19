@@ -1,4 +1,6 @@
-[contacts]()
+## Welcome to my GitHub Repository!
+
+I'm Yohanes Nuwara. I prefer to call myself as a reservoir analyst, in which I coin the term to tell how I love to integrate two perspectives of geoscience and engineering for oil and gas reservoir analysis. I mostly worked with Python, also partly with MATLAB and R. This is my portfolio showcase.
 
 ### 💻 Repositories:
 
@@ -29,6 +31,8 @@
 > *Towards Data Science* is a renowned Medium publication about artificial intelligence, data science, and computing technology.
 
 ### 💬 Contact me
+
+If someone has a brand new and fresh idea, probably to collaborate on work together, don't hesitate to contact me. 
 
 * [LinkedIn](www.linkedin.com/in/yohanesnuwara) - Let's professionally network and communicate. I often posted my project bites there too.
 * [ResearchGate](https://www.researchgate.net/profile/Ignatius_Nuwara) - You may find most of my researches and publications there. I sometimes asked tricky questions in the forum. Want to be involved?
