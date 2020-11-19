@@ -1,6 +1,6 @@
 💻 Repositories:
 
-* [`reservoir-engineering`](https://github.com/yohanesnuwara/reservoir-engineering) - Currently the top forked and starred repo. Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8). Helping students and reservoir engineers.
+* [`Reservoir Engineering`](https://github.com/yohanesnuwara/reservoir-engineering) - Currently the **top forked and starred repo**. Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8). Helping students and reservoir engineers.
 * [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir) - Python utilities for reservoir engineering calculations. PVT analysis, Well Test, Volumetric Mapping, Material Balance, and Decline Curve Analysis.
 * [`PyReSim`](https://github.com/yohanesnuwara/pyresim)
 * [`Reservoir Geomechanics`](https://github.com/yohanesnuwara/reservoir-geomechanics)
@@ -8,10 +8,14 @@
 * [`Open Geoscience Repository`](https://github.com/yohanesnuwara/open-geoscience-repository)
 * [`Python Bootcamp for Geoengineers`](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers)
 * [`Volve Machine Learning`]()
+* [`Carbon `]
 
 🛠️ Projects and codes:
 
 🧪 Experimentations:
+
+* Well placement optimization with multiple objective functions - *coupling powerful Python optimizers with MRST Matlab simulations*
+* Stochastic simulation for geostatistical reservoir characterization
 
 📰 Articles I have published:
 
