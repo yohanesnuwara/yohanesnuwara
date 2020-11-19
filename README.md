@@ -28,7 +28,13 @@
 
 > *Towards Data Science* is a renowned Medium publication about artificial intelligence, data science, and computing technology.
 
-### Contact me
+### 💬 Contact me
+
+* [LinkedIn](www.linkedin.com/in/yohanesnuwara) - Let's professionally network and communicate. I often posted my project bites there too.
+* [ResearchGate](https://www.researchgate.net/profile/Ignatius_Nuwara) - You may find most of my researches and publications there. I sometimes asked tricky questions in the forum. Want to be involved?
+* [E-mail](ign.nuwara97@gmail.com) - I prefer to communicate in e-mail and share some useful materials via email.
+* [Flickr](https://www.flickr.com/photos/yohanesnuwara/) - I partly like photography, do you want to check mine?
+* [Facebook](facebook.com/yohanesnuwara) - Let's connect there too. 
 
 <!--
 
