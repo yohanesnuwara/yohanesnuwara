@@ -21,7 +21,19 @@ I'm Yohanes Nuwara. I prefer to call myself as a reservoir analyst, in which I c
 * Well placement optimization with multiple objective functions - *coupling powerful Python optimizers with MRST Matlab simulations*
 * Stochastic simulation for geostatistical reservoir characterization
 
-### 🌏 Tutorials:
+### 🌏 Tutorials and Courses:
+
+Want to start Python? I have some useful notebooks from courses that I have taught (mostly with SPE). 
+
+* [Very brief intro to Python, Numpy, Matplotlib, and Pandas](bit.ly/) 
+* [More on introductory Numpy, Matplotlib, Pandas, and Scipy](bit.ly/)
+* [Hands-on intro to Python for exploration]()
+* [Hands-on intro to Python for production]()
+* [Formation evaluation with Python]()
+* [Material balance with Python]()
+* [Well test analysis with Python]()
+
+> My SPE courses and talks milestones are with SPE Trisakti University (Indonesia), SPE Port Harcourt Section (Nigeria), SPE Asia Pacific University (Malaysia), SPE Northern Emirates Section (UAE).
 
 These are Python tutorials to solve some reservoir engineering cases I posted lately in LinkedIn:
 
