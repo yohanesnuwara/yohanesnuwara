@@ -23,6 +23,7 @@ Inside these links there are written descriptions on each project/code, and also
 * [Stiffness tensor rotation for tilted transverse isotropic (TTI) rock]() [Rock physics]
 * [Digby model to estimate PV compressibility due to pressure drop]() [Rock physics]
 * [Carbonate rock physics]() [Rock physics]
+* [Neural Network for EOR screening]() [Reservoir engineering]
 * [Poroelastic reservoir model according to Altmann]() [Geomechanics]
 * [Borehole stability in anisotropic formation]() [Geomechanics]
 * [Seismic displayer widget and spectral calculation]() [Geophysics]
