@@ -1,6 +1,19 @@
-<!--
+💻 Repositories:
 
-Articles I have published:
+* [`reservoir-engineering`](https://github.com/yohanesnuwara/reservoir-engineering) - Currently the top forked and starred repo. Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8). Helping students and reservoir engineers.
+* [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir) - Python utilities for reservoir engineering calculations. PVT analysis, Well Test, Volumetric Mapping, Material Balance, and Decline Curve Analysis.
+* [`PyReSim`](https://github.com/yohanesnuwara/pyresim)
+* [`Reservoir Geomechanics`](https://github.com/yohanesnuwara/reservoir-geomechanics)
+* [`Computational Geophysics`](https://github.com/yohanesnuwara/computational-geophysics)
+* [`Open Geoscience Repository`](https://github.com/yohanesnuwara/open-geoscience-repository)
+* [`Python Bootcamp for Geoengineers`](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers)
+* [`Volve Machine Learning`]()
+
+🛠️ Projects and codes:
+
+🧪 Experimentations:
+
+📰 Articles I have published:
 
 * [Handling Big Volume of Well Log Data with a Boosted Time-Efficiency with Python](https://towardsdatascience.com/handling-big-volume-of-well-log-data-with-a-boosted-time-efficiency-with-python-dfe0319daf26) in *Towards Data Science* 
 * [Intro to Open Database for Geoscience Computing: Part 1 of 2](https://towardsdatascience.com/intro-to-open-database-for-geoscience-computing-part-1-of-2-2ad214fc2388) in *Towards Data Science* 
@@ -8,6 +21,8 @@ Articles I have published:
 * [Should We Build More Noah’s Arks to Store Carbon Emission?](https://energycentral.com/c/ec/should-we-build-more-noah%E2%80%99s-arks-store-carbon-emission) in *Energy Central*
 
 > *Towards Data Science* is a renowned Medium publication about artificial intelligence, data science, and computing technology.
+
+<!--
 
 ## Top Repositories
 
