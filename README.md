@@ -1,4 +1,13 @@
-This is a showcase page of my projects and repositories.
+<!--
+
+Articles I have published:
+
+* [Handling Big Volume of Well Log Data with a Boosted Time-Efficiency with Python](https://towardsdatascience.com/handling-big-volume-of-well-log-data-with-a-boosted-time-efficiency-with-python-dfe0319daf26) in *Towards Data Science* 
+* [Intro to Open Database for Geoscience Computing: Part 1 of 2](https://towardsdatascience.com/intro-to-open-database-for-geoscience-computing-part-1-of-2-2ad214fc2388) in *Towards Data Science* 
+* [Prediction of P-Sonic Log in the Volve Oil Field using Machine Learning](https://towardsdatascience.com/prediction-of-p-sonic-log-in-the-volve-oil-field-using-machine-learning-9a4afdb92fe8) in *Towards Data Science*
+* [Should We Build More Noah’s Arks to Store Carbon Emission?](https://energycentral.com/c/ec/should-we-build-more-noah%E2%80%99s-arks-store-carbon-emission) in *Energy Central*
+
+> *Towards Data Science* is a renowned Medium publication about artificial intelligence, data science, and computing technology.
 
 ## Top Repositories
 
