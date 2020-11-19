@@ -16,6 +16,18 @@ I'm Yohanes Nuwara. I prefer to call myself as a reservoir analyst, in which I c
 
 ### 🛠️ Projects and codes:
 
+Inside these links there are written descriptions on each project/code, and also a link to the code itself.
+
+* [Stiffness tensor rotation for tilted transverse isotropic (TTI) rock]() [Rock physics]
+* [Digby model to estimate PV compressibility due to pressure drop]() [Rock physics]
+* [Carbonate rock physics]() [Rock physics]
+* [Poroelastic reservoir model according to Altmann]() [Geomechanics]
+* [Borehole stability in anisotropic formation]() [Geomechanics]
+* [Seismic displayer widget and spectral calculation]() [Geophysics]
+* [Seismic attribute calculation and visualization]() [Geophysics]
+* [Gravity anomaly separation techniques]() [Geophysics]
+* [Monte Carlo simulation for underground CO2 storage policy analysis]() [Statistics]
+
 ### 🧪 Experimentations:
 
 * Well placement optimization with multiple objective functions - *coupling powerful Python optimizers with MRST Matlab simulations*
