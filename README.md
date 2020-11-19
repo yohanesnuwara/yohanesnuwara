@@ -34,7 +34,7 @@ I'm Yohanes Nuwara. I prefer to call myself as a reservoir analyst, in which I c
 
 If someone has a brand new and fresh idea, probably to collaborate on work together, don't hesitate to contact me. 
 
-* [LinkedIn](www.linkedin.com/in/yohanesnuwara) - Let's professionally network and communicate. I often posted my project bites there too.
+* [LinkedIn](www.linkedin.com/in/yohanesnuwara) - Let's professionally network and communicate. I actively posted my project bites there too.
 * [ResearchGate](https://www.researchgate.net/profile/Ignatius_Nuwara) - You may find most of my researches and publications there. I sometimes asked tricky questions in the forum. Want to be involved?
 * [E-mail](ign.nuwara97@gmail.com) - I prefer to communicate in e-mail and share some useful materials there.
 * [Flickr](https://www.flickr.com/photos/yohanesnuwara/) - I partly like photography, do you want to check mine?
