@@ -21,6 +21,19 @@ I'm Yohanes Nuwara. I prefer to call myself as a reservoir analyst, in which I c
 * Well placement optimization with multiple objective functions - *coupling powerful Python optimizers with MRST Matlab simulations*
 * Stochastic simulation for geostatistical reservoir characterization
 
+### 🌏 Tutorials:
+
+These are Python tutorials to solve some reservoir engineering cases I posted lately in LinkedIn:
+
+* [Aquifer influx calculation with Python]()
+* [Decline curve analysis with Python]()
+* [Volumetrics with Python]()
+* [Gas material balance with Python]()
+* [Oil material balance with Python]()
+* [Reservoir drive calculation with Python]()
+* [PVT correlation with Python]()
+* [Drawdown well test analysis with Python]()
+
 ### 📰 Articles I have published:
 
 * [Handling Big Volume of Well Log Data with a Boosted Time-Efficiency with Python](https://towardsdatascience.com/handling-big-volume-of-well-log-data-with-a-boosted-time-efficiency-with-python-dfe0319daf26) in *Towards Data Science* 
