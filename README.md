@@ -1,4 +1,4 @@
-<!--
+This is a showcase page of my projects and repositories.
 
 ## Top Repositories
 
