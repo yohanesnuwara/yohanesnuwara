@@ -1,4 +1,6 @@
-💻 Repositories:
+[contacts]()
+
+### 💻 Repositories:
 
 * [`Reservoir Engineering`](https://github.com/yohanesnuwara/reservoir-engineering) - Currently the **top forked and starred repo**. Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8). Helping students and reservoir engineers.
 * [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir) - Python utilities for reservoir engineering calculations. PVT analysis, Well Test, Volumetric Mapping, Material Balance, and Decline Curve Analysis.
@@ -10,14 +12,14 @@
 * [`Volve Machine Learning`]()
 * [`Carbon `]
 
-🛠️ Projects and codes:
+### 🛠️ Projects and codes:
 
-🧪 Experimentations:
+### 🧪 Experimentations:
 
 * Well placement optimization with multiple objective functions - *coupling powerful Python optimizers with MRST Matlab simulations*
 * Stochastic simulation for geostatistical reservoir characterization
 
-📰 Articles I have published:
+### 📰 Articles I have published:
 
 * [Handling Big Volume of Well Log Data with a Boosted Time-Efficiency with Python](https://towardsdatascience.com/handling-big-volume-of-well-log-data-with-a-boosted-time-efficiency-with-python-dfe0319daf26) in *Towards Data Science* 
 * [Intro to Open Database for Geoscience Computing: Part 1 of 2](https://towardsdatascience.com/intro-to-open-database-for-geoscience-computing-part-1-of-2-2ad214fc2388) in *Towards Data Science* 
@@ -25,6 +27,8 @@
 * [Should We Build More Noah’s Arks to Store Carbon Emission?](https://energycentral.com/c/ec/should-we-build-more-noah%E2%80%99s-arks-store-carbon-emission) in *Energy Central*
 
 > *Towards Data Science* is a renowned Medium publication about artificial intelligence, data science, and computing technology.
+
+### Contact me
 
 <!--
 
