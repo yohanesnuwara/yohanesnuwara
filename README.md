@@ -4,6 +4,8 @@ I'm Yohanes Nuwara. I prefer to call myself as a reservoir analyst, in which I c
 
 ### 💻 Repositories:
 
+These are my main repositories:
+
 * [`Reservoir Engineering`](https://github.com/yohanesnuwara/reservoir-engineering) - Currently the **top forked and starred repo**. Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8). Helping students and reservoir engineers.
 * [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir) - Python utilities for reservoir engineering calculations. PVT analysis, Well Test, Volumetric Mapping, Material Balance, and Decline Curve Analysis.
 * [`PyReSim`](https://github.com/yohanesnuwara/pyresim)
@@ -29,6 +31,8 @@ Inside these links there are written descriptions on each project/code, and also
 * [Monte Carlo simulation for underground CO2 storage policy analysis]() [Statistics]
 
 ### 🧪 Experimentations:
+
+These are my current experimentations: 
 
 * Well placement optimization with multiple objective functions - *coupling powerful Python optimizers with MRST Matlab simulations*
 * Stochastic simulation for geostatistical reservoir characterization
