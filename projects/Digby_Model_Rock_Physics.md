@@ -8,7 +8,9 @@ This model can be important when we deal with reservoir with compressibility dri
 
 ## Intro
 
-Digby (1981) proposed a model that estimates the change of pore volume compressibility due to change of differential pressure. He represented a rock as collection of grains with radius `r` and neighboring bonded particles with radius `a`. While **pore pressure** decreases, space `a` decreases to a new radius `b`. Digby (1981) used term **differential pressure** rather than pore pressure. Differential pressure (effective pressure) is confining pressure minus pore pressure: `P_eff = P_conf - Pp`. A new term, coordination number or `Cp` was also introduced. **Murphy (1982)** stated that `Cp` is proportional to `e^(1-porosity)`.  
+Digby (1981) proposed a model that estimates the change of matrix compressibility due to change of differential pressure. He represented a rock as collection of grains with radius `r` and neighboring bonded particles with radius `a`. While **pore pressure** decreases, space `a` decreases to a new radius `b`. Digby (1981) used term **differential pressure** rather than pore pressure. Differential pressure (effective pressure) is confining pressure minus pore pressure: `P_eff = P_conf - Pp`. 
+
+Actually Digby not explicitly solved for PV compressibility (he proposed model for matrix compressibility), but we can use [**Zimmerman (1986)**](https://www.researchgate.net/publication/220010850_Compressibility_of_Porous_Rocks) model to compute the PV compressibility from its relation with matrix compressibility.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51282928/99671187-42e15980-2aa4-11eb-9845-6299c95de49e.png" />
@@ -16,7 +18,7 @@ Digby (1981) proposed a model that estimates the change of pore volume compressi
 
 ## Workflow
 
-**First**, compute the coordination number of a rock from its porosity. Murphy (1982) theory of proportionality of coordination number `Cp` and porosity. Supposing the real equation that relates both is `Cp = 11.759 * e^(1 - porosity) - 12.748` (Li and Ma, 2019).
+**First**, compute the coordination number `Cp` of a rock from its porosity. **Murphy (1982)** stated that `Cp` is proportional to `e^(1-porosity)`. Supposing the real equation that relates both is `Cp = 11.759 * e^(1 - porosity) - 12.748` (Li and Ma, 2019).
 
 The following is result from such correlation.
 
@@ -36,7 +38,7 @@ Mineral density: 2.615 g/cc
 
 **Third**, define the differential pressure. Pressure differential is confining pressure (can be caused by overburden) minus pore pressure. Supposing the sandstone is confined with 70 MPa of `P_conf` and has 60 MPa of `Pp`, thus the pressure differential is 10 MPa. 
 
-**Fourth**, 
+**Fourth**, use Digby model to compute the matrix compressibility
 
 Python function:
 
