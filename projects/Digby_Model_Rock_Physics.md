@@ -4,7 +4,7 @@ I reproduce the rock physics model proposed by Digby (1981) extensively discusse
 
 This model can be important when we deal with reservoir with compressibility drive or reservoir compaction is dominant. People can quantitatively assess how much PV will reduce on a certain pressure drop during production, or how much will increase on a certain pressure buildup during injection or gas storage.
 
-> Link to my Python notebook [here]()
+> Link to my Python notebook [here](https://github.com/yohanesnuwara/computational-geophysics/blob/master/digby1981.ipynb)
 
 ## Intro
 
