@@ -1,6 +1,6 @@
 # Digby Model: A Rock Physics Model to Estimate Pore Compressibility in Clastic Rocks Change Due to Pressure Drop
 
-I reproduce the rock physics model proposed by Digby (1981) in [his paper](https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/48/4/803/390095/The-Effective-Elastic-Moduli-of-Porous-Granular?redirectedFrom=fulltext) using Python. 
+I reproduce the rock physics model proposed by Digby (1981) extensively discussed by Li and Ma (2019) in [their paper](https://ogst.ifpenergiesnouvelles.fr/articles/ogst/full_html/2019/01/ogst190120/ogst190120.html) using Python. [Here](https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/48/4/803/390095/The-Effective-Elastic-Moduli-of-Porous-Granular?redirectedFrom=fulltext) is Digby's original paper. 
 
 This model can be important when we deal with reservoir with compressibility drive or reservoir compaction is dominant. People can quantitatively assess how much PV will reduce on a certain pressure drop during production, or how much will increase on a certain pressure buildup during injection or gas storage.
 
@@ -16,7 +16,7 @@ Digby (1981) proposed a model that estimates the change of pore volume compressi
 
 ## Workflow
 
-**First**, compute the coordination number of a rock from its porosity. Murphy (1982) theory of proportionality of coordination number `Cp` and porosity. Supposing the real equation that relates both is `Cp = 11.759 * e^(1 - porosity) - 12.748` [(Li and Ma, 2019)](https://ogst.ifpenergiesnouvelles.fr/articles/ogst/full_html/2019/01/ogst190120/ogst190120.html).
+**First**, compute the coordination number of a rock from its porosity. Murphy (1982) theory of proportionality of coordination number `Cp` and porosity. Supposing the real equation that relates both is `Cp = 11.759 * e^(1 - porosity) - 12.748` (Li and Ma, 2019).
 
 The following is result from such correlation.
 
