@@ -24,12 +24,28 @@ The following is result from such correlation.
   <img src="https://user-images.githubusercontent.com/51282928/99671614-db77d980-2aa4-11eb-9901-7397a9d55545.png" />
 </p>
 
-**Second**, compute the rock matrix modulus. Supposing a sandstone has **50% porosity**, composed of **50% quartz** and **50% clay minerals**, and **Poisson's ratio of 0.4** (Typically sandstone has `poisson` between 0.1 and 0.4). Mineral bulk moduli (`Km`) and shear moduli (`Gm`) can be computed using **Voigt-Reuss-Hill method**. The following is the result. 
+Supposing a sandstone has **50% porosity**, the coordination number therefore is 6.64.
+
+**Second**, compute the rock matrix modulus. Supposing the sandstone is composed of **50% quartz** and **50% clay minerals**, and **Poisson's ratio of 0.4** (Typically sandstone has `poisson` between 0.1 and 0.4). Mineral bulk moduli (`Km`) and shear moduli (`Gm`) can be computed using **Voigt-Reuss-Hill model** (we can also use other model e.g. Hashin-Shtrikman model). The following is the result. 
 
 ```
-Mineral bulk moduli: 27.678304347826085 GPa
-Mineral shear moduli: 16.68051724137931 GPa
+Mineral bulk moduli: 27.678 GPa
+Mineral shear moduli: 16.681 GPa
 Mineral density: 2.615 g/cc
+```
+
+**Third**, define the differential pressure. Pressure differential is confining pressure (can be caused by overburden) minus pore pressure. Supposing the sandstone is confined with 70 MPa of `P_conf` and has 60 MPa of `Pp`, thus the pressure differential is 10 MPa. 
+
+**Fourth**, 
+
+Python function:
+
+```
+def f(d):
+  f1 = (d**3) + (1.5 * (ratio_ar**2) * d) - ((3 * np.pi * (1 - poisson) * pressure) / (2 * Cp * (1 - poro) * Gm))
+  return(f1)
+
+d = fsolve(f, 1)
 ```
 
 <p align="center">
