@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Repository!
 
-I'm Yohanes Nuwara. I prefer to call myself as a reservoir analyst, in which I coin the term to tell how I love to integrate two perspectives of geoscience and engineering for oil and gas reservoir analysis. I mostly worked with Python, also partly with MATLAB and R. This is my portfolio showcase.
+I'm Yohanes Nuwara. I prefer to call myself as a reservoir analyst, in which I coin the term to tell how I love to integrate two perspectives of geoscience and engineering for oil and gas reservoir analysis. I mostly worked with Python, also partly with MATLAB and R. This is my portfolio showcase. I hope you enjoy or find anything useful, and kindly [contact me]() if you wish!
 
 ### 💻 Repositories:
 
@@ -12,7 +12,7 @@ I'm Yohanes Nuwara. I prefer to call myself as a reservoir analyst, in which I c
 * [`Open Geoscience Repository`](https://github.com/yohanesnuwara/open-geoscience-repository)
 * [`Python Bootcamp for Geoengineers`](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers)
 * [`Volve Machine Learning`]()
-* [`Carbon `]
+* [`Carbon Capture and Storage`]()
 
 ### 🛠️ Projects and codes:
 
@@ -36,7 +36,7 @@ If someone has a brand new and fresh idea, probably to collaborate on work toget
 
 * [LinkedIn](www.linkedin.com/in/yohanesnuwara) - Let's professionally network and communicate. I often posted my project bites there too.
 * [ResearchGate](https://www.researchgate.net/profile/Ignatius_Nuwara) - You may find most of my researches and publications there. I sometimes asked tricky questions in the forum. Want to be involved?
-* [E-mail](ign.nuwara97@gmail.com) - I prefer to communicate in e-mail and share some useful materials via email.
+* [E-mail](ign.nuwara97@gmail.com) - I prefer to communicate in e-mail and share some useful materials there.
 * [Flickr](https://www.flickr.com/photos/yohanesnuwara/) - I partly like photography, do you want to check mine?
 * [Facebook](facebook.com/yohanesnuwara) - Let's connect there too. 
 
