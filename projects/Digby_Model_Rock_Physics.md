@@ -1,4 +1,4 @@
-# Digby Model: A Rock Physics Model to Estimate Pore Compressibility in Clastic Rocks Change Due to Pressure Drop
+# Digby Model: A Rock Physics Model to Estimate Pore Compressibility Change in Clastic Rocks Due to Pressure Drop
 
 I reproduce the rock physics model proposed by Digby (1981) extensively discussed by Li and Ma (2019) in [their paper](https://ogst.ifpenergiesnouvelles.fr/articles/ogst/full_html/2019/01/ogst190120/ogst190120.html) using Python. [Here](https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/48/4/803/390095/The-Effective-Elastic-Moduli-of-Porous-Granular?redirectedFrom=fulltext) is Digby's original paper. 
 
@@ -26,29 +26,25 @@ The following is result from such correlation.
   <img src="https://user-images.githubusercontent.com/51282928/99671614-db77d980-2aa4-11eb-9901-7397a9d55545.png" />
 </p>
 
-Supposing a sandstone has **50% porosity**, the coordination number therefore is 6.64.
+Supposing a sandstone has **20% porosity**, the coordination number therefore is 13.42.
 
 **Second**, compute the rock matrix modulus. Supposing the sandstone is composed of **50% quartz** and **50% clay minerals**, and **Poisson's ratio of 0.4** (Typically sandstone has `poisson` between 0.1 and 0.4). Mineral bulk moduli (`Km`) and shear moduli (`Gm`) can be computed using **Voigt-Reuss-Hill model** (we can also use other model e.g. Hashin-Shtrikman model). The following is the result. 
 
 ```
 Mineral bulk moduli: 27.678 GPa
-Mineral shear moduli: 16.681 GPa
+Mineral shear moduli: 16.6811 GPa
 Mineral density: 2.615 g/cc
 ```
 
 **Third**, define the differential pressure. Pressure differential is confining pressure (can be caused by overburden) minus pore pressure. Supposing the sandstone is confined with 70 MPa of `P_conf` and has 60 MPa of `Pp`, thus the pressure differential is 10 MPa. 
 
-**Fourth**, use Digby model to compute the matrix compressibility
+**Fourth**, use Digby model to compute the matrix compressibility. First, we specify the ratio of grain radius `a/R` and solve a cubic equation where the root of it is `d`. After we found `d`, we calculate the deformed radius `b/R`. Finally, we calculate the dry matrix bulk modulus. The computed bulk modulus is 14.51 GPa. 
 
-Python function:
+> Remember that bulk modulus is inverse of compressibility. 
 
-```
-def f(d):
-  f1 = (d**3) + (1.5 * (ratio_ar**2) * d) - ((3 * np.pi * (1 - poisson) * pressure) / (2 * Cp * (1 - poro) * Gm))
-  return(f1)
+**Finally**, use Zimmerman to calculate PV compressibility. The final result is 34.46 microsip.
 
-d = fsolve(f, 1)
-```
+## Conclusion
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51282928/99671407-95227a80-2aa4-11eb-9335-2571eab37170.png" />
