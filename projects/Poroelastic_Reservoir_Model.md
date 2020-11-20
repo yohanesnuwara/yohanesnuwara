@@ -1,8 +1,12 @@
 # Altmann Poroelastic Reservoir Model
 
+I reproduce
+
 ## Intro
 
-The analysis of stress path is very important to understand the impact of fluid depletion and injection on the effective stress change in the reservoir. Stress path is the ratio of minimum horizontal stress change to pore pressure change. 
+The analysis of stress path is very important to understand the impact of fluid depletion and injection on the effective stress change in the reservoir. Stress path is the ratio of minimum horizontal stress change to pore pressure change. In 1994, [Engelder and Fischer](https://www.researchgate.net/publication/249520094_Influence_of_poroelastic_behavior_on_the_magnitude_of_minimum_horizontal_stress_Sh_in_overpressured_parts_of_sedimentary_basins) proposed the formula of stress path for sedimentary rocks. However, the formula doesn't address the effect of time evolution and spatial. 
+
+In 2010, [Altmann et al](https://www.sciencedirect.com/science/article/pii/S136516091000136X) proposed a new formula that couples flow and geomechanics, such that now the stress path is a function of time and spatial (distance at one point from the wellbore). 
 
 ```
 Kd = 12 # drained bulk modulus, GPa
