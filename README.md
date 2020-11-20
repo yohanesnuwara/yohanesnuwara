@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Repository!
 
-I'm Yohanes Nuwara. I prefer to call myself as a reservoir analyst, in which I coin the term to tell how I love to integrate two perspectives of geoscience and engineering for oil and gas reservoir analysis. I mostly worked with Python, also partly with MATLAB and R. This is my showcase. I hope you enjoy or find anything useful, and kindly [contact me](https://github.com/yohanesnuwara/yohanesnuwara#-contact-me) if you wish!
+I'm Yohanes Nuwara. I'm a reservoir geophysicist, who loves to integrate two perspectives of geoscience and engineering for oil and gas reservoir analysis. I mostly worked with Python, also partly with MATLAB and R. This is my showcase. I hope you enjoy or find anything useful, and kindly [contact me](https://github.com/yohanesnuwara/yohanesnuwara#-contact-me) if you wish!
 
 ### 💻 Repositories:
 
@@ -22,7 +22,7 @@ Inside these links there are written descriptions on each project/code, and also
 
 * [Stiffness tensor rotation for tilted transverse isotropic (TTI) rock]() [Rock physics]
 * [Digby model to estimate PV compressibility due to pressure drop]() [Rock physics]
-* [Carbonate rock physics]() [Rock physics]
+* [Carbonate pore structure characterization and fluid substitution]() [Rock physics]
 * [Neural Network for EOR screening]() [Reservoir engineering]
 * [Poroelastic reservoir model according to Altmann]() [Geomechanics]
 * [Borehole stability in anisotropic formation]() [Geomechanics]
