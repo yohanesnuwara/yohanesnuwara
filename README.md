@@ -8,13 +8,13 @@ These are my main repositories:
 
 * [`Reservoir Engineering`](https://github.com/yohanesnuwara/reservoir-engineering) - Currently the **top forked and starred repo**. Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8). Helping students and reservoir engineers.
 * [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir) - Python utilities for reservoir engineering calculations. PVT analysis, Well Test, Volumetric Mapping, Material Balance, and Decline Curve Analysis.
-* [`PyReSim`](https://github.com/yohanesnuwara/pyresim)
-* [`Reservoir Geomechanics`](https://github.com/yohanesnuwara/reservoir-geomechanics)
-* [`Computational Geophysics`](https://github.com/yohanesnuwara/computational-geophysics)
-* [`Open Geoscience Repository`](https://github.com/yohanesnuwara/open-geoscience-repository)
-* [`Python Bootcamp for Geoengineers`](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers)
-* [`Volve Machine Learning`]()
-* [`Carbon Capture and Storage`]()
+* [`PyReSim`](https://github.com/yohanesnuwara/pyresim) - Reservoir simulator in Python
+* [`Reservoir Geomechanics`](https://github.com/yohanesnuwara/reservoir-geomechanics) - Python worked homework problems from Mark Zoback's Stanford University Course for *Reservoir Geomechanics* and *Unconventional Reservoir Geomechanics*.
+* [`Computational Geophysics`](https://github.com/yohanesnuwara/computational-geophysics) - Computational geophysics with Python
+* [`Open Geoscience Repository`](https://github.com/yohanesnuwara/open-geoscience-repository) - Repository that contains links and tutorials to access open geoscience datasets (SEG Wiki, Geothermal GDR OpenEi, many more)
+* [`Python Bootcamp for Geoengineers`](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers) - All notebooks and materials from courses that I have taught with SPE and many more
+* [`Volve Machine Learning`](https://github.com/yohanesnuwara/volve-machine-learning) - Machine learning explorations on the Equinor's Volve field dataset (sonic log prediction, supervised and unsupervised learning)
+* [`Carbon Capture and Storage`](https://github.com/yohanesnuwara/carbon-capture-and-storage) - Python workflow for underground CO2 storage study (geophysics)
 
 ### 🛠️ Projects and codes:
 
