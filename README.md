@@ -21,8 +21,8 @@ These are my main repositories:
 
 Inside these links there are written descriptions on each project/code, and also a link to the code itself.
 
-* [Stiffness tensor rotation for tilted transverse isotropic (TTI) rock]() [Rock physics]
-* [Digby model to estimate PV compressibility due to pressure drop]() [Rock physics]
+* [Stiffness tensor rotation for tilted transverse isotropic (TTI) rock](https://github.com/yohanesnuwara/yohanesnuwara/blob/master/projects/Digby_Model_Rock_Physics.md) [Rock physics]
+* [Digby model to estimate PV compressibility due to pressure drop](https://github.com/yohanesnuwara/yohanesnuwara/blob/master/projects/Poroelastic_Reservoir_Model.md) [Rock physics]
 * [Carbonate pore structure characterization and fluid substitution]() [Rock physics]
 * [Neural Network for EOR screening]() [Reservoir engineering]
 * [Poroelastic reservoir model according to Altmann]() [Geomechanics]
