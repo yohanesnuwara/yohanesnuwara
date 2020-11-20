@@ -1,12 +1,10 @@
 # Digby Model: A Rock Physics Model to Estimate Pore Compressibility Change in Clastic Rocks Due to Pressure Drop
 
-> ### See here the Python script
+> ### See here the [Python script](https://github.com/yohanesnuwara/computational-geophysics/blob/master/digby1981.ipynb)
 
 I reproduce the rock physics model proposed by Digby (1981) extensively discussed by Li and Ma (2019) in [their paper](https://ogst.ifpenergiesnouvelles.fr/articles/ogst/full_html/2019/01/ogst190120/ogst190120.html) using Python. [Here](https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/48/4/803/390095/The-Effective-Elastic-Moduli-of-Porous-Granular?redirectedFrom=fulltext) is Digby's original paper. 
 
 This model can be important when we deal with reservoir with compressibility drive or reservoir compaction is dominant. People can quantitatively assess how much PV will reduce on a certain pressure drop during production, or how much will increase on a certain pressure buildup during injection or gas storage.
-
-> Link to my Python notebook [here](https://github.com/yohanesnuwara/computational-geophysics/blob/master/digby1981.ipynb)
 
 ## Intro
 
