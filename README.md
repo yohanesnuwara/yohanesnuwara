@@ -9,6 +9,7 @@ These are my main repositories:
 * [`Reservoir Engineering`](https://github.com/yohanesnuwara/reservoir-engineering) - Currently the **top forked and starred repo**. Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8). Helping students and reservoir engineers.
 * [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir) - Python utilities for reservoir engineering calculations. PVT analysis, Well Test, Volumetric Mapping, Material Balance, and Decline Curve Analysis.
 * [`PyReSim`](https://github.com/yohanesnuwara/pyresim) - Reservoir simulator in Python
+* [`Formation Evaluation`](https://github.com/yohanesnuwara/formation-evaluation) - Python utilities for formation evaluation and petrophysical analysis
 * [`Reservoir Geomechanics`](https://github.com/yohanesnuwara/reservoir-geomechanics) - Python worked homework problems from Mark Zoback's Stanford University Course for *Reservoir Geomechanics* and *Unconventional Reservoir Geomechanics*.
 * [`Computational Geophysics`](https://github.com/yohanesnuwara/computational-geophysics) - Computational geophysics with Python
 * [`Open Geoscience Repository`](https://github.com/yohanesnuwara/open-geoscience-repository) - Repository that contains links and tutorials to access open geoscience datasets (SEG Wiki, Geothermal GDR OpenEi, many more)
