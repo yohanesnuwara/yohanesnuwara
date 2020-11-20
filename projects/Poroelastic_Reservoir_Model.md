@@ -12,6 +12,17 @@ In 2010, Altmann et al modifies the formula that couples flow and geomechanics, 
 
 ## Workflow
 
+**Case.** The reservoir is composed of sandstone that has drained (dry) bulk modulus of 12 GPa, matrix (grain) bulk modulus of 40 GPa, shear modulus of 5.5 GPa, and hydraulic conductivity of 1x10^-7 m/s. It has porosity of 16.7% and saturated by fluid that has density of 1 g/cc and bulk modulus of 2 GPa.  
+
+Calculate the stress path over the reservoir, from point 0 (wellbore) up to 500 m from the wellbore, over 1 year, 2 years, 5 years, and 20 years of production. 
+
+Steps to do calculation are:
+* Compute undrained (saturated) bulk modulus according to Biot-Gassmann fluid substitution
+* Compute Biot-Willis coefficient
+* Compute Lame's parameter λ for drained and undrained condition
+* Compute diffusivity (is a function of hydraulic conductivity)
+* Compute 
+
 ```
 Kd = 12 # drained bulk modulus, GPa
 Kg = 40 # grain bulk modulus, GPa
