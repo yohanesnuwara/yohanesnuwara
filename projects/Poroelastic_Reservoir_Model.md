@@ -21,17 +21,11 @@ Steps to do calculation are:
 * Compute Biot-Willis coefficient
 * Compute Lame's parameter λ for drained and undrained condition
 * Compute diffusivity (is a function of hydraulic conductivity)
-* Compute 
+* Compute the stress path (Altmann et al, 2010), compare with that calculated using Engelder and Fischer (1994)
 
-```
-Kd = 12 # drained bulk modulus, GPa
-Kg = 40 # grain bulk modulus, GPa
-G = 5.5 # shear modulus, GPa
-Kf = 2 # fluid bulk modulus, GPa
-rhof = 1000 # fluid density, kg/m3
-poro = 0.167 # porosity of sandstone
-kf = 0.1E-6 # hydraulic conductivity, m/s
-```
+## Result
+
+These plots are the stress paths for 1 year, 2, 5, and 20 years. The continuous line represents the Altmann et al (2010) stress path; the dotted line represents the Engelder and Fischer (1994) stress path. Look how the Altmann et al (2010) stress path is increasing over distance from the wellbore. The stress path decreases over the year. Approaching infinite time, the stress path converges to value from Engelder and Fischer (1994).
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51282928/99690483-cb6af480-2aba-11eb-8920-695045ed3422.png" />
