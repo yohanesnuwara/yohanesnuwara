@@ -43,10 +43,10 @@ These are my current experimentations:
 
 Want to start Python? I have some useful notebooks from courses that I have taught (mostly with SPE). 
 
-* [Very brief intro to Python, Numpy, Matplotlib, and Pandas](bit.ly/) 
-* [More on introductory Numpy, Matplotlib, Pandas, and Scipy](bit.ly/)
-* [Hands-on intro to Python for exploration]()
-* [Hands-on intro to Python for production]()
+* [Very brief intro to Python, Numpy, Matplotlib, and Pandas](bit.ly/python-brief-intro) 
+* [More on introductory Numpy, Matplotlib, Pandas, and Scipy](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit1.ipynb)
+* [Hands-on intro to Python for exploration](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit2.ipynb)
+* [Hands-on intro to Python for production](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit3.ipynb)
 * [Formation evaluation with Python](bit.ly/python-FE)
 * [Material balance with Python](bit.ly/python-mbal)
 * [Well test analysis with Python](bit.ly/python-welltest)
@@ -76,48 +76,15 @@ Want to solve reservoir engineering cases with Python? These are tutorials I hav
 
 ### 💬 Contact me
 
-If someone has a brand new and fresh idea, probably to collaborate on work together, don't hesitate to contact me. 
+If someone has a brand new, ground-breaking, and fresh idea, probably to collaborate on work together, don't hesitate to contact me. 
 
-* [LinkedIn](www.linkedin.com/in/yohanesnuwara) - Let's professionally network and communicate. I actively posted my project bites there too.
-* [ResearchGate](https://www.researchgate.net/profile/Ignatius_Nuwara) - You may find most of my researches and publications there. I sometimes asked tricky questions in the forum. Want to be involved?
-* [E-mail](ign.nuwara97@gmail.com) - I prefer to communicate in e-mail and share some useful materials there.
-* [Flickr](https://www.flickr.com/photos/yohanesnuwara/) - I partly like photography, do you want to check mine?
-* [Facebook](facebook.com/yohanesnuwara) - Let's connect there too. 
+* [LinkedIn](www.linkedin.com/in/yohanesnuwara) - Let's professionally network and communicate. I actively posted my project bites and tutorials there.
+* [ResearchGate](https://www.researchgate.net/profile/Ignatius_Nuwara) - My researches and publications
+* [E-mail](ign.nuwara97@gmail.com)
+* [Flickr](https://www.flickr.com/photos/yohanesnuwara/) - I partly like photography, do you want to have a look at mine?
+* [Facebook](facebook.com/yohanesnuwara) - Just for fun. 
 
 <!--
-
-## Top Repositories
-
-### [`reservoir-engineering`](https://github.com/yohanesnuwara/reservoir-engineering) **Top repo 🔥** (44 forks🍴 and 83 stars⭐)
-
-Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8, etc.) 
-
-### [`PyReSim`](https://github.com/yohanesnuwara/pyresim) (Still on work until launched later, stay tuned!)
-
-Python-language reservoir simulator (single-phase water, gas, undersaturated oil, to multi-phase, with variety of reservoir boundary conditions, well operating conditions, homogeneous and heterogeneous)
-
-<div>
-<img src="https://user-images.githubusercontent.com/51282928/89118699-ebf24d00-d4d1-11ea-92a9-76495358fc6c.png" width="300"/>
-</div>
-
-### [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir) (Still on work)
-
-Python utilities for reservoir engineering calculations. **PVT analysis**, **Well Test**, **Material Balance**, and **Decline Curve Analysis** using Python. 
-
-
-### [`computational-geophysics`](https://github.com/yohanesnuwara/computational-geophysics)
-
-* Stiffness tensor rotation of a tilted transverse isotropic (TTI) rock on various bed dips and azimuths
-* Seismic attribute computation
-
-<div>
-<img src="https://user-images.githubusercontent.com/51282928/83759266-80d8f580-a69d-11ea-9149-9c2eed8b025f.png" width="400"/>
-</div>
-
-### [`python-bootcamp-for-geoengineers`](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers)
-
-A designed course on Python programming for geoengineers (geologist, geophysicist, petroleum engineers)
-
 
 ## My Projects and Works
 
