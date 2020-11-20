@@ -47,22 +47,23 @@ Want to start Python? I have some useful notebooks from courses that I have taug
 * [More on introductory Numpy, Matplotlib, Pandas, and Scipy](bit.ly/)
 * [Hands-on intro to Python for exploration]()
 * [Hands-on intro to Python for production]()
-* [Formation evaluation with Python]()
-* [Material balance with Python]()
-* [Well test analysis with Python]()
+* [Formation evaluation with Python](bit.ly/python-FE)
+* [Material balance with Python](bit.ly/python-mbal)
+* [Well test analysis with Python](bit.ly/python-welltest)
+
+Want to solve reservoir engineering cases with Python? These are tutorials I have written in LinkedIn:
+
+* [Aquifer influx calculation with Python](https://www.linkedin.com/pulse/how-many-barrels-water-coming-our-reservoir-python-tutorial-nuwara/)
+* [Decline curve analysis with Python](https://www.linkedin.com/pulse/decline-curve-analysis-python-yohanes-nuwara/)
+* [Volumetric analysis with Python](https://www.linkedin.com/pulse/volumetrics-python-yohanes-nuwara/)
+* [Gas material balance with Python](https://www.linkedin.com/pulse/gas-reservoir-material-balance-python-yohanes-nuwara/)
+* [Oil material balance with Python](https://www.linkedin.com/pulse/oil-reservoir-material-balance-python-yohanes-nuwara/)
+* [Reservoir drive calculation with Python](https://www.linkedin.com/pulse/identifying-reservoir-drives-python-yohanes-nuwara/)
+* [PVT correlation with Python](https://www.linkedin.com/pulse/pvt-correlations-python-yohanes-nuwara/)
+* [Modeling well transient flow with Python](https://www.linkedin.com/pulse/modeling-well-transient-flow-python-yohanes-nuwara/)
+* [Drawdown well test analysis with Python](https://www.linkedin.com/pulse/well-test-analysis-python-part-1-drawdown-pressure-tests-nuwara/)
 
 > My SPE courses and talks milestones are with SPE Trisakti University (Indonesia), SPE Port Harcourt Section (Nigeria), SPE Asia Pacific University (Malaysia), SPE Northern Emirates Section (UAE).
-
-These are Python tutorials to solve some reservoir engineering cases I posted lately in LinkedIn:
-
-* [Aquifer influx calculation with Python]()
-* [Decline curve analysis with Python]()
-* [Volumetrics with Python]()
-* [Gas material balance with Python]()
-* [Oil material balance with Python]()
-* [Reservoir drive calculation with Python]()
-* [PVT correlation with Python]()
-* [Drawdown well test analysis with Python]()
 
 ### 📰 Articles I have published:
 
