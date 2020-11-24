@@ -41,17 +41,26 @@ These are my current experimentations:
 
 ### 🌏 Tutorials and Courses:
 
-Want to start Python? I have some useful notebooks from courses that I have taught (mostly with SPE). 
+Want to start Python? 🐍 I have some useful notebooks from courses that I have taught (mostly with SPE). 
 
 * [Very brief intro to Python, Numpy, Matplotlib, and Pandas](bit.ly/python-brief-intro) 
 * More on introductory Numpy, Matplotlib, Pandas, and Scipy
-  * [Python Notebook](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit1.ipynb)
+  * [Python notebook](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit1.ipynb)
   * [YouTube video](https://youtu.be/fLGX92Doiw4?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=1701) (Play until 1:35:20)
-* [Hands-on intro to Python for exploration](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit2.ipynb)
-* [Hands-on intro to Python for production](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit3.ipynb)
-* [Formation evaluation with Python](bit.ly/python-FE)
-* [Material balance with Python](bit.ly/python-mbal)
-* [Well test analysis with Python](bit.ly/python-welltest)
+* Hands-on intro to Python for exploration
+  * [Python notebook](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit2.ipynb)
+  * [YouTube video](https://youtu.be/fLGX92Doiw4?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=6561) (Play until 2:30:29)
+* Hands-on intro to Python for production
+  * [Python notebook](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit3.ipynb)
+  * [YouTube video](https://youtu.be/fLGX92Doiw4?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=9842) (Play until 3:13:35)
+* Formation evaluation with Python
+  * [Python notebook](bit.ly/python-FE)
+  * [YouTube video](https://youtu.be/hob5Hilj8sM?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=668)
+* Material balance with Python
+  * [Python notebook](bit.ly/python-mbal)
+  * [YouTube video](https://youtu.be/7AoExt4Ju1M?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=383)
+* Well test analysis with Python
+  * [Python notebook](bit.ly/python-welltest)
 
 Want to solve reservoir engineering cases with Python? These are tutorials I have written in LinkedIn:
 
