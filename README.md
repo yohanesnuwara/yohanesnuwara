@@ -43,7 +43,9 @@ These are my current experimentations:
 
 Want to start Python? 🐍 I have some useful notebooks from courses that I have taught (mostly with SPE). 
 
-* [Very brief intro to Python, Numpy, Matplotlib, and Pandas](bit.ly/python-brief-intro) 
+* Very brief intro to Numpy, Matplotlib, and Pandas; How to code Python in Google Colab 
+  * [Python notebook](bit.ly/python-brief-intro) 
+  * [YouTube video](https://youtu.be/hob5Hilj8sM?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=1074)
 * More on introductory Numpy, Matplotlib, Pandas, and Scipy
   * [Python notebook](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit1.ipynb)
   * [YouTube video](https://youtu.be/fLGX92Doiw4?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=1701) (Play until 1:35:20)
