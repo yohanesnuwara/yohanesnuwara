@@ -63,6 +63,7 @@ Want to start Python? 🐍 I have some useful notebooks from courses that I have
   * [YouTube video](https://youtu.be/7AoExt4Ju1M?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=383)
 * Well test analysis with Python
   * [Python notebook](bit.ly/python-welltest)
+  * [YouTube video](https://youtu.be/8SujEmdoj0U?t=1102)
 
 Want to solve reservoir engineering cases with Python? These are tutorials I have written in LinkedIn:
 
