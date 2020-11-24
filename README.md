@@ -44,7 +44,9 @@ These are my current experimentations:
 Want to start Python? I have some useful notebooks from courses that I have taught (mostly with SPE). 
 
 * [Very brief intro to Python, Numpy, Matplotlib, and Pandas](bit.ly/python-brief-intro) 
-* [More on introductory Numpy, Matplotlib, Pandas, and Scipy](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit1.ipynb)
+* More on introductory Numpy, Matplotlib, Pandas, and Scipy
+  * [Python Notebook](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit1.ipynb)
+  * [YouTube video](https://youtu.be/fLGX92Doiw4?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=1701) (Play until 1:35:20)
 * [Hands-on intro to Python for exploration](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit2.ipynb)
 * [Hands-on intro to Python for production](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit3.ipynb)
 * [Formation evaluation with Python](bit.ly/python-FE)
