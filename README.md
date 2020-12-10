@@ -38,6 +38,7 @@ These are my current experimentations:
 
 * Well placement optimization with multiple objective functions - *coupling powerful Python optimizers with MRST Matlab simulations*
 * Stochastic simulation for geostatistical reservoir characterization
+* Rock physics for engineering
 
 ### 🌏 Tutorials and Courses:
 
