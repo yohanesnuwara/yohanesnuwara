@@ -17,6 +17,7 @@ These are my main repositories:
 * [`Volve Machine Learning`](https://github.com/yohanesnuwara/volve-machine-learning) - Machine learning explorations on the Equinor's Volve field dataset (sonic log prediction, supervised and unsupervised learning)
 * [`Carbon Capture and Storage`](https://github.com/yohanesnuwara/carbon-capture-and-storage) - Python workflow for underground CO2 storage study (geophysics)
 
+<!--
 ### 🛠️ Projects and codes:
 
 Inside these links there are written descriptions on each project/code, and also a link to the code itself.
@@ -31,6 +32,7 @@ Inside these links there are written descriptions on each project/code, and also
 * [Seismic attribute calculation and visualization]() [Geophysics]
 * [Gravity anomaly separation techniques]() [Geophysics]
 * [Monte Carlo simulation for underground CO2 storage policy analysis]() [Statistics]
+-->
 
 ### 🧪 Experimentations:
 
