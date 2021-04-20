@@ -34,14 +34,6 @@ Inside these links there are written descriptions on each project/code, and also
 * [Monte Carlo simulation for underground CO2 storage policy analysis]() [Statistics]
 -->
 
-### 🧪 Experimentations:
-
-These are my current experimentations: 
-
-* Well placement optimization with multiple objective functions - *coupling powerful Python optimizers with MRST Matlab simulations*
-* Stochastic simulation for geostatistical reservoir characterization
-* Rock physics for engineering
-
 ### 🌏 Tutorials and Courses:
 
 Want to start Python? 🐍 I have some useful notebooks from courses that I have taught (mostly with SPE). 
