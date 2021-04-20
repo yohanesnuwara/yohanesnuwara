@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Repository!
 
-I'm Yohanes Nuwara. I'm a reservoir geophysicist, who loves to integrate two perspectives of geoscience and engineering for oil and gas reservoir analysis. I mostly worked with Python, partially with MATLAB and R. This is my showcase. If you would like to collaborate, kindly [contact me](https://github.com/yohanesnuwara/yohanesnuwara#-contact-me) if you wish!
+I'm Yohanes Nuwara. I'm a reservoir geophysicist, who loves to mix geoscience with data science and machine learning. I have been teaching Python to 1,000+ students and professionals in the exploration and production domain. This is my showcase. If you would like to collaborate, kindly [contact me](https://github.com/yohanesnuwara/yohanesnuwara#-contact-me) if you wish!
 
 ### 💻 Repositories:
 
