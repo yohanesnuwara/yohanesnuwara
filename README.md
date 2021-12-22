@@ -22,29 +22,7 @@ Want to start Python? 🐍 I have taught to more than 1,000 students and profess
 
 [**Python Bootcamp for Geoengineers**](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers) - All YouTube video links, notebooks, data, and exercises from courses that I have taught with SPE and many more.
 
-* Very brief intro to Numpy, Matplotlib, and Pandas; How to code Python in Google Colab 
-  * [Python notebook](bit.ly/python-brief-intro) 
-  * [YouTube video](https://youtu.be/hob5Hilj8sM?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=1074) (Play until 38:21)
-* More on introductory Numpy, Matplotlib, Pandas, and Scipy
-  * [Python notebook](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit1.ipynb)
-  * [YouTube video](https://youtu.be/fLGX92Doiw4?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=1701) (Play until 1:35:20)
-* Hands-on intro to Python for exploration
-  * [Python notebook](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit2.ipynb)
-  * [YouTube video](https://youtu.be/fLGX92Doiw4?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=6561) (Play until 2:30:29)
-* Hands-on intro to Python for production
-  * [Python notebook](https://colab.research.google.com/github/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit3.ipynb)
-  * [YouTube video](https://youtu.be/fLGX92Doiw4?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=9842) (Play until 3:13:35)
-* Formation evaluation with Python
-  * [Python notebook](bit.ly/python-FE)
-  * [YouTube video](https://youtu.be/hob5Hilj8sM?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=2602) 
-* Material balance with Python
-  * [Python notebook](bit.ly/python-mbal)
-  * [YouTube video](https://youtu.be/7AoExt4Ju1M?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=383)
-* Well test analysis with Python
-  * [Python notebook](bit.ly/python-welltest)
-  * [YouTube video](https://youtu.be/8SujEmdoj0U?t=1102)
-
-Want to solve reservoir engineering cases with Python? These are tutorials I have written in LinkedIn:
+Want to solve reservoir engineering cases with Python? I also have tutorial articles in LinkedIn:
 
 * [Aquifer influx calculation with Python](https://www.linkedin.com/pulse/how-many-barrels-water-coming-our-reservoir-python-tutorial-nuwara/)
 * [Decline curve analysis with Python](https://www.linkedin.com/pulse/decline-curve-analysis-python-yohanes-nuwara/)
@@ -55,17 +33,6 @@ Want to solve reservoir engineering cases with Python? These are tutorials I hav
 * [PVT correlation with Python](https://www.linkedin.com/pulse/pvt-correlations-python-yohanes-nuwara/)
 * [Modeling well transient flow with Python](https://www.linkedin.com/pulse/modeling-well-transient-flow-python-yohanes-nuwara/)
 * [Drawdown well test analysis with Python](https://www.linkedin.com/pulse/well-test-analysis-python-part-1-drawdown-pressure-tests-nuwara/)
-
-> My SPE courses and talks milestones are with SPE Trisakti University (Indonesia), SPE Port Harcourt Section (Nigeria), SPE Asia Pacific University (Malaysia), SPE Northern Emirates Section (UAE).
-
-### 📰 Articles I have published:
-
-* [Handling Big Volume of Well Log Data with a Boosted Time-Efficiency with Python](https://towardsdatascience.com/handling-big-volume-of-well-log-data-with-a-boosted-time-efficiency-with-python-dfe0319daf26) in *Towards Data Science* 
-* [Intro to Open Database for Geoscience Computing: Part 1 of 2](https://towardsdatascience.com/intro-to-open-database-for-geoscience-computing-part-1-of-2-2ad214fc2388) in *Towards Data Science* 
-* [Prediction of P-Sonic Log in the Volve Oil Field using Machine Learning](https://towardsdatascience.com/prediction-of-p-sonic-log-in-the-volve-oil-field-using-machine-learning-9a4afdb92fe8) in *Towards Data Science*
-* [Should We Build More Noah’s Arks to Store Carbon Emission?](https://energycentral.com/c/ec/should-we-build-more-noah%E2%80%99s-arks-store-carbon-emission) in *Energy Central*
-
-> *Towards Data Science* is a renowned Medium publication about artificial intelligence, data science, and computing technology.
 
 ### 💬 Contact me
 
