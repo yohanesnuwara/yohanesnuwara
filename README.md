@@ -1,42 +1,26 @@
-## Welcome to my GitHub Repository!
+## Hi There!
 
-I'm Yohanes Nuwara. I'm currently a research geophysicist on Distributed Acoustic Sensing (DAS), for Research Institute of Innovative Technology for the Earth (RITE) in Kyoto, Japan. I have been teaching Python to 1,000+ students and professionals in the exploration and production domain. This is my showcase. If you would like to collaborate, kindly [contact me](https://github.com/yohanesnuwara/yohanesnuwara#-contact-me) if you wish!
+I'm Yohanes Nuwara. I'm currently a research engineer on DAS fiber-optic sensing at the Research Institute of Innovative Technology for the Earth (RITE) in Kyoto, Japan. I have been helping clients (mostly professionals) start their journey in Data Science and Machine Learning and implement them in oil and gas projects. Visit my [website](https://yohanesnuwara.github.io/).
 
-### 💻 Repositories:
+### 🧪 Core Researches
 
-These are my main repositories:
+* [**Volve Machine Learning**](https://github.com/yohanesnuwara/volve-machine-learning) - Machine learning implementations on Equinor's Volve oil field and other open-source datasets, with articles in Towards Data Science.
+* [**DASLab**](https://github.com/yohanesnuwara/DASLab) - Distributed acoustic sensing lab of modules and functions developed for fiber-optic research (developed at RITE)
+* [**Carbon Capture and Storage**](https://github.com/yohanesnuwara/carbon-capture-and-storage) - Workflows for geophysical simulations for monitoring of underground CO2 storage (developed at CCS Gundih Project)
 
-* [`Reservoir Engineering`](https://github.com/yohanesnuwara/reservoir-engineering) - Currently the **top forked and starred repo**. Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8). Helping students and reservoir engineers.
-* [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir) - Python utilities for reservoir engineering calculations. PVT analysis, Well Test, Volumetric Mapping, Material Balance, and Decline Curve Analysis.
-* [`PyReSim`](https://github.com/yohanesnuwara/pyresim) - Reservoir simulator in Python
-* [`Formation Evaluation`](https://github.com/yohanesnuwara/formation-evaluation) - Python utilities for formation evaluation and petrophysical analysis
-* [`Reservoir Geomechanics`](https://github.com/yohanesnuwara/reservoir-geomechanics) - Python worked homework problems from Mark Zoback's Stanford University Course for *Reservoir Geomechanics* and *Unconventional Reservoir Geomechanics*.
-* [`Computational Geophysics`](https://github.com/yohanesnuwara/computational-geophysics) - Computational geophysics with Python
-* [`Open Geoscience Repository`](https://github.com/yohanesnuwara/open-geoscience-repository) - Repository that contains links and tutorials to access open geoscience datasets (SEG Wiki, Geothermal GDR OpenEi, many more)
-* [`Python Bootcamp for Geoengineers`](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers) - All notebooks and materials from courses that I have taught with SPE and many more
-* [`Volve Machine Learning`](https://github.com/yohanesnuwara/volve-machine-learning) - Machine learning explorations on the Equinor's Volve field dataset (sonic log prediction, supervised and unsupervised learning)
-* [`Carbon Capture and Storage`](https://github.com/yohanesnuwara/carbon-capture-and-storage) - Python workflow for underground CO2 storage study (geophysics)
+### 🌏 Geoscience Repositories
 
-<!--
-### 🛠️ Projects and codes:
+* [**PyReservoir**](https://github.com/yohanesnuwara/pyreservoir) - Python utilities for reservoir engineering calculations. PVT analysis, Well Test, Volumetric Mapping, Material Balance, and Decline Curve Analysis.
+* [**Formation Evaluation**](https://github.com/yohanesnuwara/formation-evaluation) - Python utilities for formation evaluation and petrophysical analysis
+* [**Reservoir Geomechanics**](https://github.com/yohanesnuwara/reservoir-geomechanics) - Python worked homework problems from Mark Zoback's Stanford University Course for *Reservoir Geomechanics* and *Unconventional Reservoir Geomechanics*.
+* [**Computational Geophysics**](https://github.com/yohanesnuwara/computational-geophysics) - Computational geophysics with Python
+* [**Open Geoscience Repository**](https://github.com/yohanesnuwara/open-geoscience-repository) - Repository that contains links and tutorials to access open geoscience datasets (SEG Wiki, Geothermal GDR OpenEi, many more)
 
-Inside these links there are written descriptions on each project/code, and also a link to the code itself.
+### 💻 Educational Resources
 
-* [Stiffness tensor rotation for tilted transverse isotropic (TTI) rock](https://github.com/yohanesnuwara/yohanesnuwara/blob/master/projects/Digby_Model_Rock_Physics.md) [Rock physics]
-* [Digby model to estimate PV compressibility due to pressure drop](https://github.com/yohanesnuwara/yohanesnuwara/blob/master/projects/Poroelastic_Reservoir_Model.md) [Rock physics]
-* [Carbonate pore structure characterization and fluid substitution]() [Rock physics]
-* [Neural Network for EOR screening]() [Reservoir engineering]
-* [Poroelastic reservoir model according to Altmann]() [Geomechanics]
-* [Borehole stability in anisotropic formation]() [Geomechanics]
-* [Seismic displayer widget and spectral calculation]() [Geophysics]
-* [Seismic attribute calculation and visualization]() [Geophysics]
-* [Gravity anomaly separation techniques]() [Geophysics]
-* [Monte Carlo simulation for underground CO2 storage policy analysis]() [Statistics]
--->
+Want to start Python? 🐍 I have taught to more than 1,000 students and professionals through many courses with Society of Petroleum Engineers (SPE) and Marietta College in Ohio, US. Please start from this repository.   
 
-### 🌏 Tutorials and Courses:
-
-Want to start Python? 🐍 I have some useful notebooks from courses that I have taught (mostly with SPE). 
+[**Python Bootcamp for Geoengineers**](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers) - All YouTube video links, notebooks, data, and exercises from courses that I have taught with SPE and many more.
 
 * Very brief intro to Numpy, Matplotlib, and Pandas; How to code Python in Google Colab 
   * [Python notebook](bit.ly/python-brief-intro) 
