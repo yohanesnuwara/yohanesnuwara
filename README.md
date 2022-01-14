@@ -2,7 +2,9 @@
 
 I'm Yohanes Nuwara. I'm currently a research engineer on DAS fiber-optic sensing at the Research Institute of Innovative Technology for the Earth (RITE) in Kyoto, Japan. I have been helping clients (mostly professionals) start their journey in Data Science and Machine Learning and implement them in oil and gas projects. Visit my [website](https://yohanesnuwara.github.io/).
 
-### 🧪 Core Researches
+**Research/Interests:** Fourier Convolutional Neural Networks (F-CNN)
+
+### 🧪 Projects
 
 * [**Volve Machine Learning**](https://github.com/yohanesnuwara/volve-machine-learning) - Machine learning implementations on Equinor's Volve oil field and other open-source datasets, with articles in Towards Data Science.
 * [**DASLab**](https://github.com/yohanesnuwara/DASLab) - Distributed acoustic sensing lab of modules and functions developed for fiber-optic research (developed at RITE)
