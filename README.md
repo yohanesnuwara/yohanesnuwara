@@ -1,6 +1,6 @@
 ## Hi There!
 
-I'm Yohanes Nuwara. I'm currently a research engineer on DAS fiber-optic sensing at the Research Institute of Innovative Technology for the Earth (RITE) in Kyoto, Japan. I have been helping clients (mostly professionals) start their journey in Data Science and Machine Learning and implement them in oil and gas projects. Visit my [website](https://yohanesnuwara.github.io/).
+I'm Yohanes Nuwara. I currently join Asia Pulp & Paper (one of the largest paper companies in the world) as their expert data scientist. I have been helping clients (mostly professionals) start their journey in Data Science and Machine Learning and implement them in oil and gas projects. Visit my [website](https://yohanesnuwara.github.io/).
 
 **Research/Interests:** Fourier Convolutional Neural Networks (F-CNN)
 
