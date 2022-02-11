@@ -1,8 +1,8 @@
 ## Hi There!
 
-I'm Yohanes Nuwara. I currently join Asia Pulp & Paper (one of the largest paper companies in the world) as their expert data scientist. I have been helping clients (mostly professionals) start their journey in Data Science and Machine Learning and implement them in oil and gas projects. Visit my [website](https://yohanesnuwara.github.io/).
+I'm Yohanes Nuwara. I currently join Asia Pulp & Paper (one of the largest paper companies in the world) as expert data scientist. I am working on computer vision method for precision forestry projects. I have been helping clients (mostly professionals) start their journey in Data Science and Machine Learning and implement them in oil and gas projects. Visit my [website](https://yohanesnuwara.github.io/).
 
-**Research/Interests:** Fourier Convolutional Neural Networks (F-CNN) for image segmentation, optimization algorithms
+**Research/Interests:** deep learning in computer vision, optimization algorithms
 
 ### 🧪 Projects
 
