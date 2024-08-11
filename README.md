@@ -1,6 +1,8 @@
 ## Hi There!
 
-I'm Yohanes Nuwara. I am an expert data scientist at Asia Pulp & Paper, one of the **largest paper manufacturing companies** in the world. I am working on **computer vision** method for **precision forestry** projects. I have been helping clients (mostly professionals) start their journey in Data Science and Machine Learning and implement them in **oil and gas** projects. Visit my [website](https://yohanesnuwara.github.io/).
+Data scientist at Prores AS, Chief of AI at Agrari, & Ex-data scientist expert at Asia Pulp and Paper Sinarmas. Working in the mix of machine learning, computer vision, oil and gas, and agriculture. 
+
+I have been helping clients (mostly professionals) start their journey in Data Science and Machine Learning and implement them in **oil and gas** projects. Visit my [website](https://yohanesnuwara.github.io/).
 
 **Research/Interests:** deep learning in computer vision, optimization algorithms
 
