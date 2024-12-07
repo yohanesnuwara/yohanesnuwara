@@ -1,6 +1,44 @@
 ## Hi There!
 
-Data scientist at Prores AS, Chief of AI at Agrari, & Ex-data scientist expert at Asia Pulp and Paper Sinarmas. Working in the mix of machine learning, computer vision, oil and gas, and agriculture. 
+I am working as a Senior Data Scientist at PRORES AS for projects related to oil and gas exploration & production. Previously, I worked with Asia Pulp and Paper Sinarmas as Expert Data Scientist for projects related to pulp and paper manufacturing and precision forestry. I was also Chief of AI at Agrari, Indonesian agribusiness startup. My expertise are in Advanced image processing and analysis, Computer vision (YOLOv8/v11, Detectron) for aerial image & LiDAR, Large Language Models (LLMs), tech stacks (Linux, SQL, AWS, Spark Databricks).
+
+## Current Projects
+
+Here are top 3 list of recent POCs I ran independently of PRORES AS: 
+1. [PetroRAG](https://github.com/yohanesnuwara/PetroRAG)
+2. [CavingDetection](https://github.com/yohanesnuwara/CavingDetection)
+3. [CoreImageDrivenML](https://github.com/yohanesnuwara/CoreImageDrivenML)
+
+## Repositories
+
+Since 2020, I have 130+ repositories. Mostly to liberate Machine Learning knowledge for subsurface. Here are top 3 most popular repositories:
+
+* [**PyReservoir**](https://github.com/yohanesnuwara/pyreservoir) - Python utilities for reservoir engineering calculations. PVT analysis, Well Test, Volumetric Mapping, Material Balance, and Decline Curve Analysis.
+* [**Formation Evaluation**](https://github.com/yohanesnuwara/formation-evaluation) - Python utilities for formation evaluation and petrophysical analysis
+* [**Reservoir Geomechanics**](https://github.com/yohanesnuwara/reservoir-geomechanics) - Python worked homework problems from Mark Zoback's Stanford University Course for *Reservoir Geomechanics* and *Unconventional Reservoir Geomechanics*.
+* [**Computational Geophysics**](https://github.com/yohanesnuwara/computational-geophysics) - Computational geophysics with Python
+* [**Open Geoscience Repository**](https://github.com/yohanesnuwara/open-geoscience-repository) - Repository that contains links and tutorials to access open geoscience datasets (SEG Wiki, Geothermal GDR OpenEi, many more)
+
+### 💻 Educational Resources
+
+Want to start Python? 🐍 I have taught to more than 1,000 students and professionals through many courses with Society of Petroleum Engineers (SPE) and Marietta College in Ohio, US. Please start from this repository.   
+
+[**Python Bootcamp for Geoengineers**](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers) - All YouTube video links, notebooks, data, and exercises from courses that I have taught with SPE and many more.
+
+Want to solve reservoir engineering cases with Python? I also have tutorial articles in LinkedIn:
+
+* [Aquifer influx calculation with Python](https://www.linkedin.com/pulse/how-many-barrels-water-coming-our-reservoir-python-tutorial-nuwara/)
+* [Decline curve analysis with Python](https://www.linkedin.com/pulse/decline-curve-analysis-python-yohanes-nuwara/)
+* [Volumetric analysis with Python](https://www.linkedin.com/pulse/volumetrics-python-yohanes-nuwara/)
+* [Gas material balance with Python](https://www.linkedin.com/pulse/gas-reservoir-material-balance-python-yohanes-nuwara/)
+* [Oil material balance with Python](https://www.linkedin.com/pulse/oil-reservoir-material-balance-python-yohanes-nuwara/)
+* [Reservoir drive calculation with Python](https://www.linkedin.com/pulse/identifying-reservoir-drives-python-yohanes-nuwara/)
+* [PVT correlation with Python](https://www.linkedin.com/pulse/pvt-correlations-python-yohanes-nuwara/)
+* [Modeling well transient flow with Python](https://www.linkedin.com/pulse/modeling-well-transient-flow-python-yohanes-nuwara/)
+* [Drawdown well test analysis with Python](https://www.linkedin.com/pulse/well-test-analysis-python-part-1-drawdown-pressure-tests-nuwara/)
+
+   
+<!--
 
 I have been helping clients (mostly professionals) start their journey in Data Science and Machine Learning and implement them in **oil and gas** projects. Visit my [website](https://yohanesnuwara.github.io/).
 
