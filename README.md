@@ -1,6 +1,8 @@
-## Hi There!
+## Hei!
 
-I am working as a Senior Data Scientist at PRORES AS for projects related to oil and gas exploration & production. In PRORES AS, I am the developer of Rock Insight (automated porosity and permeability prediction from core photographs) and Cuttings AI (automated lithology interpretation of cutting images). Previously, I worked with Asia Pulp and Paper Sinarmas as Expert Data Scientist for projects related to pulp and paper manufacturing and precision forestry. I was also Chief of AI at Agrari, Indonesian agribusiness startup. My expertise are in Advanced image processing and analysis, Computer vision (YOLOv8/v11, Detectron) for aerial image & LiDAR, Large Language Models (LLMs), tech stacks (Linux, SQL, AWS, Spark Databricks).
+I am working as a Senior Data Scientist at PRORES AS for projects related to oil and gas exploration & production. In PRORES AS, I am the developer of Rock Insight (automated porosity and permeability prediction from core photographs) and Cuttings AI (automated lithology interpretation of cutting images). 
+
+Previously, I worked with Asia Pulp and Paper Sinarmas as Expert Data Scientist for projects related to pulp and paper manufacturing and precision forestry. I was also Chief of AI at Agrari, Indonesian agribusiness startup. My expertise are in Advanced image processing and analysis, Computer vision (YOLOv8/v11, Detectron) for aerial image & LiDAR, Large Language Models (LLMs), tech stacks (Linux, SQL, AWS, Spark Databricks).
 
 ## Current Projects
 
@@ -10,23 +12,23 @@ Here are top 3 list of recent POCs I ran independently of PRORES AS:
 [<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="300" height="100"
 />](https://github.com/user-attachments/assets/bc969a21-a36f-486d-8a06-0ec406012edc)
    
-3. [PetroRAG](https://github.com/yohanesnuwara/PetroRAG)
+2. [PetroRAG](https://github.com/yohanesnuwara/PetroRAG)
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/9f40d010-7aa4-4633-ab62-5226a7b2aec0">
 
-5. [CoreImageDrivenML](https://github.com/yohanesnuwara/CoreImageDrivenML)
+3. [CoreImageDrivenML](https://github.com/yohanesnuwara/CoreImageDrivenML)
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/61714fbf-010c-40be-956a-70d17dde21d0">
 
 ## Repositories
 
-Since 2020, I have 130+ repositories. Mostly to liberate Machine Learning knowledge for subsurface. Here are top 3 most popular repositories:
+Since 2020, I have 130+ repositories. Mostly to liberate Machine Learning knowledge for subsurface. Here are top 5 most popular repositories:
 
 * [**PyReservoir**](https://github.com/yohanesnuwara/pyreservoir) - Python utilities for reservoir engineering calculations. PVT analysis, Well Test, Volumetric Mapping, Material Balance, and Decline Curve Analysis.
 * [**Formation Evaluation**](https://github.com/yohanesnuwara/formation-evaluation) - Python utilities for formation evaluation and petrophysical analysis
-* [**Reservoir Geomechanics**](https://github.com/yohanesnuwara/reservoir-geomechanics) - Python worked homework problems from Mark Zoback's Stanford University Course for *Reservoir Geomechanics* and *Unconventional Reservoir Geomechanics*.
+* [**Volve Machine Learning**](https://github.com/yohanesnuwara/volve-machine-learning) - Machine learning implementations on Equinor's Volve oil field and other open-source datasets, with articles in Towards Data Science.
+* [**DASLab**](https://github.com/yohanesnuwara/DASLab) - Distributed acoustic sensing lab of modules and functions developed for fiber-optic research (developed at RITE)
 * [**Computational Geophysics**](https://github.com/yohanesnuwara/computational-geophysics) - Computational geophysics with Python
-* [**Open Geoscience Repository**](https://github.com/yohanesnuwara/open-geoscience-repository) - Repository that contains links and tutorials to access open geoscience datasets (SEG Wiki, Geothermal GDR OpenEi, many more)
 
 ### 💻 Educational Resources
 
