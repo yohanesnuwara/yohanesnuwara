@@ -1,13 +1,22 @@
 ## Hi There!
 
-I am working as a Senior Data Scientist at PRORES AS for projects related to oil and gas exploration & production. Previously, I worked with Asia Pulp and Paper Sinarmas as Expert Data Scientist for projects related to pulp and paper manufacturing and precision forestry. I was also Chief of AI at Agrari, Indonesian agribusiness startup. My expertise are in Advanced image processing and analysis, Computer vision (YOLOv8/v11, Detectron) for aerial image & LiDAR, Large Language Models (LLMs), tech stacks (Linux, SQL, AWS, Spark Databricks).
+I am working as a Senior Data Scientist at PRORES AS for projects related to oil and gas exploration & production. In PRORES AS, I am the developer of Rock Insight (automated porosity and permeability prediction from core photographs) and Cuttings AI (automated lithology interpretation of cutting images). Previously, I worked with Asia Pulp and Paper Sinarmas as Expert Data Scientist for projects related to pulp and paper manufacturing and precision forestry. I was also Chief of AI at Agrari, Indonesian agribusiness startup. My expertise are in Advanced image processing and analysis, Computer vision (YOLOv8/v11, Detectron) for aerial image & LiDAR, Large Language Models (LLMs), tech stacks (Linux, SQL, AWS, Spark Databricks).
 
 ## Current Projects
 
 Here are top 3 list of recent POCs I ran independently of PRORES AS: 
-1. [PetroRAG](https://github.com/yohanesnuwara/PetroRAG)
-2. [CavingDetection](https://github.com/yohanesnuwara/CavingDetection)
-3. [CoreImageDrivenML](https://github.com/yohanesnuwara/CoreImageDrivenML)
+1. [CavingDetection](https://github.com/yohanesnuwara/CavingDetection)
+
+[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="300" height="100"
+/>](https://github.com/user-attachments/assets/bc969a21-a36f-486d-8a06-0ec406012edc)
+   
+3. [PetroRAG](https://github.com/yohanesnuwara/PetroRAG)
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/9f40d010-7aa4-4633-ab62-5226a7b2aec0">
+
+5. [CoreImageDrivenML](https://github.com/yohanesnuwara/CoreImageDrivenML)
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/61714fbf-010c-40be-956a-70d17dde21d0">
 
 ## Repositories
 
