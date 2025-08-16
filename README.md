@@ -1,8 +1,36 @@
 ## Hei!
 
-I am working as a Senior Data Scientist at PRORES AS for projects related to oil and gas exploration & production. In PRORES AS, I am the developer of Rock Insight (automated porosity and permeability prediction from core photographs) and Cuttings AI (automated lithology interpretation of cutting images). 
+I live in Trondheim and work as senior data scientist at Aker BP ASA. Previously, I worked as software engineer at Whitson and data scientist at Prores AS and Asia Pulp and Paper. I've spent 5 years working in this role for different industries in oil and gas, pulp and paper, and forestry. My core expertise is computer vision for subsurface core/cutting images, seabed mapping, and aerial drone/LiDAR photogrametry, with interests in LLM, advanced machine learning models, and enterprise data architecture. 
 
-Previously, I worked with Asia Pulp and Paper Sinarmas as Expert Data Scientist for projects related to pulp and paper manufacturing and precision forestry. I was also Chief of AI at Agrari, Indonesian agribusiness startup. My expertise are in Advanced image processing and analysis, Computer vision (YOLOv8/v11, Detectron) for aerial image & LiDAR, Large Language Models (LLMs), tech stacks (Linux, SQL, AWS, Spark Databricks).
+## What am I working in GitHub?
+
+I use my GitHub mostly for educational purposes. I like to help many university students and professionals to step their feet into Python programming. These are several Python libraries that I've developed over 5 years and I use to teach my students:
+
+### 🌎 [GeoPySics](https://github.com/yohanesnuwara/geopysics)
+
+Library for geophysical data processing, such as gravity data anomaly separation using Fast Fourier Transform / Second Vertical Derivative (FFT/SVD), seismic data attribute calculation, interactive viewer, Amplitude-versus-offset (AVO) modelling, seismic inversion, and rock physics. 
+
+### 🛢️ [PyReservoir](https://github.com/yohanesnuwara/pyreservoir)
+
+Library for reservoir engineering analysis, such as Original-oil-in-place (OOIP) contouring and calculation, Pressure-Volume-Temperature (PVT) correlation, material balance analysis for gas (dry gas and water-drive) and oil reservoirs (saturated and undersaturated), well test simulation and interpretation, and Decline Curve Analysis (DCA). 
+
+### 🔨 [FormationPy](https://github.com/yohanesnuwara/geopysics)
+
+Library for visualization and analysis of well log data, including triple combo visualization, neutron density plot, and log interpolation.
+
+### 👨‍💻 [Python Bootcamp for GeoEngineers](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers)
+
+This repository stores codes, data, and materials of trainings that I give to students. This is a perfect place to learn Python. 
+
+Besides educational purposes, I also use GitHub to develop several libraries as follows:
+
+### PyMRST
+
+### DASLab
+
+### MLGeo
+
+<!--
 
 ## Current Projects
 
