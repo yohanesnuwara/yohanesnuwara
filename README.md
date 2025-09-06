@@ -14,7 +14,7 @@ Library for geophysical data processing, such as gravity data anomaly separation
 
 Library for reservoir engineering analysis, such as Original-oil-in-place (OOIP) contouring and calculation, Pressure-Volume-Temperature (PVT) correlation, material balance analysis for gas (dry gas and water-drive) and oil reservoirs (saturated and undersaturated), well test simulation and interpretation, and Decline Curve Analysis (DCA). 
 
-### 🔨 [FormationPy](https://github.com/yohanesnuwara/geopysics)
+### 🔨 [FormationPy](https://github.com/yohanesnuwara/formationpy)
 
 Library for visualization and analysis of well log data, including triple combo visualization, neutron density plot, and log interpolation.
 
