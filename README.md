@@ -1,10 +1,21 @@
 ## Hei!
 
-I live in Trondheim and work as senior data scientist at Aker BP ASA. Previously, I worked as software engineer at Whitson and data scientist at Prores AS and Asia Pulp and Paper. I've spent 5 years working in this role for different industries in oil and gas, pulp and paper, and forestry. My core expertise is computer vision for subsurface core/cutting images, seabed mapping, and aerial drone/LiDAR photogrametry, with interests in LLM, advanced machine learning models, and enterprise data architecture. 
+I live in Trondheim and work as senior data scientist at Aker BP ASA. Previously, I worked as software engineer at Whitson and data scientist at Prores AS, Whitson AS, and Asia Pulp and Paper. I've spent 5+ years working in this role for different industries in oil and gas, pulp and paper, and forestry. My core expertise is computer vision for subsurface core/cutting images, seabed mapping, and aerial drone/LiDAR photogrametry, with interests in LLM, AI engineering, and advanced machine learning models.
 
-## What am I working in GitHub?
+I use my GitHub mostly for educational purposes and OSS (open-source software) development. I like to help many university students and professionals to step their feet into Python programming. 
 
-I use my GitHub mostly for educational purposes. I like to help many university students and professionals to step their feet into Python programming. These are several Python libraries that I've developed over 5 years and I use to teach my students:
+## Current Works and Interests
+
+I am particularly interested in the use of agentic AI for science and engineering (one of them in geos). Here are my most recent works: 
+
+* **[Boglodite](https://github.com/yohanesnuwara/boglodite)**: Agent for seismic interpretation
+* **[SciSandboxAI](https://github.com/yohanesnuwara/science-discovery-ai)**: Agent for scientific research and experiments
+* **[DEUP LLM (Research)](https://github.com/yohanesnuwara/deup-llm)**: Epistemic uncertainty quantification for LLMs using Direct Epistemic Uncertainty Prediction (DEUP) methodology
+* **Knowledge graph from text and image embeddings (Research)**: Knowledge graph from embeddings for document retrieval
+
+## Open-Source Softwares for Geosciences
+
+These are several Python libraries that I've developed over 5 years and I use to teach my students:
 
 ### 🌎 [GeoPySics](https://github.com/yohanesnuwara/geopysics)
 
@@ -21,8 +32,6 @@ Library for visualization and analysis of well log data, including triple combo 
 ### 👨‍💻 [Python Bootcamp for GeoEngineers](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers)
 
 This repository stores codes, data, and materials of trainings that I give to students. This is a perfect place to learn Python. 
-
-Besides educational purposes, I also use GitHub to develop several libraries as follows:
 
 ### PyMRST
 
