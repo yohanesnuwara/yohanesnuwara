@@ -4,13 +4,19 @@ I live in Trondheim and work as senior data scientist at Aker BP ASA. Previously
 
 I use my GitHub mostly for educational purposes and OSS (open-source software) development. I like to help many university students and professionals to step their feet into Python programming. 
 
-## Current Works and Interests
+## What am I cooking rn?
 
-I am particularly interested in the use of agentic AI for science and engineering (one of them in geos). Here are my most recent works: 
+I am particularly interested in the use of agentic AI for science and engineering (one of them in geos). Here are my most recent works:
+
+### High burn 🔥🔥🔥
 
 * **[Boglodite](https://github.com/yohanesnuwara/boglodite)**: Agent for seismic interpretation
-* **[SciSandboxAI](https://github.com/yohanesnuwara/science-discovery-ai)**: Agent for scientific research and experiments
+* **Log-to-seismic prediction**: Log-to-seismic prediction
+* **Private agentic RAG system**: Private agentic RAG system
+
+### Slow burn 🔥
 * **[DEUP LLM (Research)](https://github.com/yohanesnuwara/deup-llm)**: Epistemic uncertainty quantification for LLMs using Direct Epistemic Uncertainty Prediction (DEUP) methodology
+* **[SciSandboxAI](https://github.com/yohanesnuwara/science-discovery-ai)**: Agent for scientific research and experiments
 * **Knowledge graph from text and image embeddings (Research)**: Knowledge graph from embeddings for document retrieval
 
 ## Open-Source Softwares for Geosciences
