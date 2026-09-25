@@ -12,6 +12,7 @@ I am particularly interested in the use of agentic AI for science and engineerin
 
 * **[Boglodite](https://github.com/yohanesnuwara/boglodite)**: Agent for seismic interpretation
 * **Log-to-seismic prediction**: Log-to-seismic prediction
+* **Imbalanced image regression/classification**: extremely imbalanced image regression/classification (zero-inflated target)
 * **Private agentic RAG system**: Private agentic RAG system
 
 ### Slow burn 🔥
